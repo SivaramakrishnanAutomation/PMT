@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>0d4bf1ca-77c3-4836-8352-84e1ec78e6d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#Brand > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Brand']/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#Brand >> internal:role=img >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>845a4891-72d8-471e-b020-bcbe292b7214</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>//bddemo.apapmt.com/Images/New_design_img/parts_manufacture.jpg</value>
+      <webElementGuid>818ce839-ed3a-4e4a-b335-f5d55b75b86a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Brand&quot;)/img[1]</value>
+      <webElementGuid>1fc063a2-ad9e-4954-bed1-1abdb1d1910d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Brand']/img</value>
+      <webElementGuid>f34af94e-53c2-4d88-80f5-f62d07fa3e9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[18]/img</value>
+      <webElementGuid>f29e9a32-b600-46fb-9fd2-38c6e20207e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '//bddemo.apapmt.com/Images/New_design_img/parts_manufacture.jpg']</value>
+      <webElementGuid>45f4f3e4-a32f-453f-834b-c089799e2f53</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

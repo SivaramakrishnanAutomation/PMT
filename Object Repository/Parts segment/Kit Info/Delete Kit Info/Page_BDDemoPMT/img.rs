@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>5a1d73b0-43d9-4297-a441-10c7313e1937</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#KitInfo > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='KitInfo']/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#KitInfo >> internal:role=img >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>8d4b11b0-c63e-4d25-bdf2-352b69147091</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>//bddemo.apapmt.com/Images/New_design_img/part_description.png</value>
+      <webElementGuid>a941d9f4-c49a-40f3-ae42-98ef5f1272ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;KitInfo&quot;)/img[1]</value>
+      <webElementGuid>969bfb49-855e-451f-a533-af44a621833d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='KitInfo']/img</value>
+      <webElementGuid>388db707-258e-4f37-971c-08baab45b6a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[19]/img</value>
+      <webElementGuid>6c7e125f-992a-40c3-8c4f-435bcafdf587</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '//bddemo.apapmt.com/Images/New_design_img/part_description.png']</value>
+      <webElementGuid>c8c4a0ac-57fe-432c-8e06-b74c62d80799</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

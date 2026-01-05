@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Notes_MainContent_drpsearchnotes</name>
+   <tag></tag>
+   <elementGuidId>0cec7d6b-d1ec-45ed-a954-806a65029fd2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='MainContent_drpsearchnotes']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#MainContent_drpsearchnotes</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#MainContent_drpsearchnotes</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>128297db-b6a8-4008-9e6f-79a68254219e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$MainContent$drpsearchnotes</value>
+      <webElementGuid>2621dfee-6b9e-4ea6-b8d6-21ef57cc1567</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>MainContent_drpsearchnotes</value>
+      <webElementGuid>e72d1ce5-762c-4294-9759-5e8b6a143c16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+		Select
+		Attribute remove
+		Katalon
+		Testing
+
+	</value>
+      <webElementGuid>fe44161f-d86f-43ea-a646-f81e5e916d35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MainContent_drpsearchnotes&quot;)</value>
+      <webElementGuid>031f0431-d35d-48e2-84a0-06bcc6206652</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Parts segment/Application/With Enginee Select/Without Attribute/Edit Application/Page_BDDemoPMT/iframe</value>
+      <webElementGuid>1af0e211-ffaf-46e6-8d0e-7f7e18d0d976</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='MainContent_drpsearchnotes']</value>
+      <webElementGuid>bd464d41-b29a-42e7-8ba6-f2809efa9952</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='MainContent_div_searchfilter']/b/span/select</value>
+      <webElementGuid>3c701a85-2da6-4e4f-b489-740f1965c902</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes'])[1]/following::select[1]</value>
+      <webElementGuid>8ea44eb4-2d54-4f5d-a6d3-8c2323be995b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='L4 982CC 60CID 1.0L 2.56 65.0 2.91 74.0'])[1]/following::select[1]</value>
+      <webElementGuid>443b9230-5300-4ec8-be82-9e13ae9fec76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type'])[1]/preceding::select[1]</value>
+      <webElementGuid>86574072-cfe7-45f2-b7e0-36c0c405b352</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Use the Excel/CSV icons to download the complete report.'])[1]/preceding::select[2]</value>
+      <webElementGuid>a73066e0-64b1-43ae-81bc-fce95b815547</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b/span/select</value>
+      <webElementGuid>aaeda63a-2020-4d41-8bc9-3f4b321c17d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$MainContent$drpsearchnotes' and @id = 'MainContent_drpsearchnotes' and (text() = '
+		Select
+		Attribute remove
+		Katalon
+		Testing
+
+	' or . = '
+		Select
+		Attribute remove
+		Katalon
+		Testing
+
+	')]</value>
+      <webElementGuid>252df3e1-fca0-4f83-bbe4-59808b00e36e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

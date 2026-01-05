@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Product Category_ucMenu_rptLevel1_rptLeve_257b89</name>
+   <tag></tag>
+   <elementGuidId>3d820741-7d7a-4612-8977-cbe6392de3c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ucMenu_rptLevel1_rptLevel2_0_rptLevel3_0_lnkLink3_1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Product Sub Category')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Product Sub Category&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b5a18cdb-b8ad-4d9e-98c2-2d9e5627d957</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ucMenu_rptLevel1_rptLevel2_0_rptLevel3_0_lnkLink3_1</value>
+      <webElementGuid>1004547b-6f1e-498e-8f6a-69f653333f9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>ProductSubCategory.aspx?PageTitle=Product Sub Category</value>
+      <webElementGuid>a19b7778-6ea0-45c6-a4b6-6bcbba960182</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Product Sub Category</value>
+      <webElementGuid>e9627846-29d2-4757-8f97-d12c399e9da8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ucMenu_rptLevel1_rptLevel2_0_rptLevel3_0_lnkLink3_1&quot;)</value>
+      <webElementGuid>153b9f01-3956-48a8-84f3-65a14267fc22</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='ucMenu_rptLevel1_rptLevel2_0_rptLevel3_0_lnkLink3_1']</value>
+      <webElementGuid>f8fd3a39-582c-4f4d-904b-7662ec31e21c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='ucMenu_rptLevel1_l1_0']/div/div/div/div/a[2]</value>
+      <webElementGuid>1589e269-e56d-4a37-b6d8-aa96b59fb954</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Product Sub Category')]</value>
+      <webElementGuid>08e11c94-996a-4914-a37e-4ed1dff9a8c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Category'])[1]/following::a[1]</value>
+      <webElementGuid>d8e9b76d-7a4d-4f82-bdf3-0e5b0658a7aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Related'])[1]/following::a[2]</value>
+      <webElementGuid>bbcb4de0-778c-4564-a6a3-aa07b15f8934</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Receiver Files'])[1]/preceding::a[1]</value>
+      <webElementGuid>14ac0ca0-d996-431a-a5e0-f580d597f4c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brand Master'])[1]/preceding::a[2]</value>
+      <webElementGuid>19455389-77e0-445c-9e0e-81008dc21be8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Product Sub Category']/parent::*</value>
+      <webElementGuid>ddf96b32-2b21-458a-84a0-0b611bfbadd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'ProductSubCategory.aspx?PageTitle=Product Sub Category')]</value>
+      <webElementGuid>faaf996e-3393-40bc-8765-3d31d57747a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>89fae86c-7247-4905-924d-35177d34b78c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'ucMenu_rptLevel1_rptLevel2_0_rptLevel3_0_lnkLink3_1' and @href = 'ProductSubCategory.aspx?PageTitle=Product Sub Category' and (text() = 'Product Sub Category' or . = 'Product Sub Category')]</value>
+      <webElementGuid>e21010cb-87d4-4542-9e6c-002d494725f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

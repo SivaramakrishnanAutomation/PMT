@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Interchange Name_ucMenu_rptLevel1_rptLeve_369344</name>
+   <tag></tag>
+   <elementGuidId>e7adc6b8-3e5b-4a12-92ff-615980c1ec79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ucMenu_rptLevel1_rptLevel2_0_rptLevel3_2_lnkLink3_1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='Interchange Part#']/parent::*</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Interchange Part#&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f5de452f-de33-4a14-8905-b90bbaf73d8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ucMenu_rptLevel1_rptLevel2_0_rptLevel3_2_lnkLink3_1</value>
+      <webElementGuid>1e790dd7-f676-4048-8653-830039fc7e4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>Interchange.aspx?PageTitle=Interchange Part#</value>
+      <webElementGuid>3f885e14-5b18-43e5-85c9-9c49a82350d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Interchange Part#</value>
+      <webElementGuid>bad9b41b-e5da-4b1a-a81f-cc873d0e5689</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ucMenu_rptLevel1_rptLevel2_0_rptLevel3_2_lnkLink3_1&quot;)</value>
+      <webElementGuid>5411d7d0-56f6-4f9c-b06c-94bd67b56f8b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='ucMenu_rptLevel1_rptLevel2_0_rptLevel3_2_lnkLink3_1']</value>
+      <webElementGuid>c6eb8325-fe3e-463a-899d-ca8a86f8d269</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='ucMenu_rptLevel1_l1_0']/div/div/div[3]/div/a[2]</value>
+      <webElementGuid>f390dffe-2121-48ec-b006-05eaedd1ebeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Interchange Part#')]</value>
+      <webElementGuid>568b2a0e-af3e-4736-90cc-b9fcf7a9128b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Interchange Name'])[1]/following::a[1]</value>
+      <webElementGuid>813388d3-6e87-4f48-b25d-3cd355fd66d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Interchange Related'])[1]/following::a[2]</value>
+      <webElementGuid>82834110-9943-430d-8585-b77373bcc620</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Import'])[1]/preceding::a[1]</value>
+      <webElementGuid>c411db5b-918b-4a55-88f5-31ed01c6923f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Excel'])[1]/preceding::a[2]</value>
+      <webElementGuid>ad487999-d12e-4b22-8bb3-7e55248798f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Interchange Part#']/parent::*</value>
+      <webElementGuid>9f006b78-2de1-4373-ac2c-aa165b964f5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'Interchange.aspx?PageTitle=Interchange Part#')]</value>
+      <webElementGuid>2783e2b7-9cfc-4f76-84bf-50abc6d4b705</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a[2]</value>
+      <webElementGuid>56c5783c-5b21-4ea2-b22e-f0132ba173e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'ucMenu_rptLevel1_rptLevel2_0_rptLevel3_2_lnkLink3_1' and @href = 'Interchange.aspx?PageTitle=Interchange Part#' and (text() = 'Interchange Part#' or . = 'Interchange Part#')]</value>
+      <webElementGuid>e7c62c18-255e-4f94-b6ac-e29cf6ff1fc6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

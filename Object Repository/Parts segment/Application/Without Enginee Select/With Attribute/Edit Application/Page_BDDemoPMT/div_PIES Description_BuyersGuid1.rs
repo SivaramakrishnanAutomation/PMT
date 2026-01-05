@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_PIES Description_BuyersGuid1</name>
+   <tag></tag>
+   <elementGuidId>1a1a47ce-f0ad-4df9-8bff-5d2079fe9900</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#BuyersGuid1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='BuyersGuid1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#BuyersGuid1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6d7c1dde-1631-4c4a-90c1-6441200cb0e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>BuyersGuid1</value>
+      <webElementGuid>d7255c9e-73fc-41f4-a471-0bba0238f6b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toolTip_partmain</value>
+      <webElementGuid>8151453b-98e6-401a-b788-c42a180c106f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>option(this.id);</value>
+      <webElementGuid>216fae49-5cc2-4ceb-9d2c-9fb4a11ac5eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                        
+                                            
+                                            Application
+                                    </value>
+      <webElementGuid>1256fea0-9cba-4e1c-959a-5f4d4d8574eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;BuyersGuid1&quot;)</value>
+      <webElementGuid>23c2ca5d-8662-4a70-a117-b5ff1569f77d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='BuyersGuid1']</value>
+      <webElementGuid>25bf3168-5efa-4660-9f14-8a4cf7ab99df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='partspagecontainer']/div[3]</value>
+      <webElementGuid>35ba5df5-a2c7-466b-ae7f-2eb0dd143e24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[3]/div[3]</value>
+      <webElementGuid>6e6c0a42-8147-4239-bb3b-72ec5fe87ddf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'BuyersGuid1' and (text() = '
+                                        
+                                            
+                                            Application
+                                    ' or . = '
+                                        
+                                            
+                                            Application
+                                    ')]</value>
+      <webElementGuid>e553a339-16e3-49ed-99d3-8583b1d6a3b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

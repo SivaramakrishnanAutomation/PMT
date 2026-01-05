@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>8a25ac24-fbab-46f7-835f-f658914d8c27</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#BuyersGuid1 > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='BuyersGuid1']/img</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@src = '//bddemo.apapmt.com/Images/New_design_img/part_buyer_guide.png']</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#BuyersGuid1 >> internal:role=img >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>b565e491-e36d-4656-b3de-4e7306dfabbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>//bddemo.apapmt.com/Images/New_design_img/part_buyer_guide.png</value>
+      <webElementGuid>06804a19-2a24-4be8-bbe4-4a89ecc8283a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;BuyersGuid1&quot;)/img[1]</value>
+      <webElementGuid>ca62e0d1-a799-4101-b06f-88641c7b32f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='BuyersGuid1']/img</value>
+      <webElementGuid>743f5014-450c-413c-bcfa-2a6544411ce2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/img</value>
+      <webElementGuid>88faa534-1f91-4fb7-8b0e-e802dc8519a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '//bddemo.apapmt.com/Images/New_design_img/part_buyer_guide.png']</value>
+      <webElementGuid>fd666cf5-574c-4897-b6a6-4badba6ca032</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

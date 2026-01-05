@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b</name>
+   <tag></tag>
+   <elementGuidId>1a8f4188-b86d-4502-aa68-58531d667a86</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a > b:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='SearchHistory']/ul/li[3]/span/a/b[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Testing_Automation : Testing_Ecat : Testing&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>4f5e9fed-70be-4473-95d2-45611fac5f42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> : Testing_Ecat </value>
+      <webElementGuid>9449efd1-8b5b-4963-9133-8655a9f5a0ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SearchHistory&quot;)/ul[@class=&quot;search_result&quot;]/li[3]/span[@class=&quot;left_text_recent&quot;]/a[1]/b[2]</value>
+      <webElementGuid>e5a2bc30-8414-4739-8b76-29a9880483d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='SearchHistory']/ul/li[3]/span/a/b[2]</value>
+      <webElementGuid>51586a57-3ee4-4449-904d-610db0c1c4c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Testing_Automation'])[1]/following::b[1]</value>
+      <webElementGuid>5a979937-f76c-49cd-a80e-444e21c198f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ProductLine'])[1]/following::b[2]</value>
+      <webElementGuid>604358d5-9141-41af-8116-e8e6532e281c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Testing_Ecat']/parent::*</value>
+      <webElementGuid>d089dc8e-1731-4c7a-8490-190f24bfe04b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/b[2]</value>
+      <webElementGuid>1b9bd44b-1fb0-429b-83e8-93eb2ec6a6b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = ' : Testing_Ecat ' or . = ' : Testing_Ecat ')]</value>
+      <webElementGuid>49a36e76-c21e-49ed-a6b2-eb05bd342f61</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

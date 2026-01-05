@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Vendor Master_ucMenu_rptLevel1_rptLevel2__5603b8</name>
+   <tag></tag>
+   <elementGuidId>f884eede-4e47-4e9b-b428-ece46fca9f59</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ucMenu_rptLevel1_rptLevel2_0_rptLevel3_0_lnkLink3_17</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Part Description')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'ucMenu_rptLevel1_rptLevel2_0_rptLevel3_0_lnkLink3_17' and @href = 'PartDescription_New.aspx?PageTitle=Part Description' and (text() = 'Part Description' or . = 'Part Description')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Part Description&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>abf5d64d-f5d8-42bb-9080-184ac6105f76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ucMenu_rptLevel1_rptLevel2_0_rptLevel3_0_lnkLink3_17</value>
+      <webElementGuid>a2d7469b-4542-4b50-88c3-6565114a7806</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>PartDescription_New.aspx?PageTitle=Part Description</value>
+      <webElementGuid>71a32c32-c6fb-4172-a026-e97ee6b615de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Part Description</value>
+      <webElementGuid>90ac4edd-260d-4df3-870e-43aabcb15651</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ucMenu_rptLevel1_rptLevel2_0_rptLevel3_0_lnkLink3_17&quot;)</value>
+      <webElementGuid>91899c5f-2c82-4fcb-91ea-119ba46cb6f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='ucMenu_rptLevel1_rptLevel2_0_rptLevel3_0_lnkLink3_17']</value>
+      <webElementGuid>6dd4658b-2080-40f4-926c-1f78d1ab2deb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='ucMenu_rptLevel1_l1_0']/div/div/div/div/a[18]</value>
+      <webElementGuid>7dec6fa8-4436-47a9-ab19-14288544eaac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Part Description')]</value>
+      <webElementGuid>f50527ca-57be-4db2-8871-c7df0eb66b24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vendor Master'])[1]/following::a[1]</value>
+      <webElementGuid>5d62ebfa-5ed0-48fb-abd0-291734a77cfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vendor Product Line'])[1]/following::a[2]</value>
+      <webElementGuid>2af8b278-88e4-4df6-9e7f-941a256d2f91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MarketPlace Import'])[1]/preceding::a[1]</value>
+      <webElementGuid>1bda1334-1705-403a-ba00-ce39a2034551</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Web SubCategory'])[1]/preceding::a[2]</value>
+      <webElementGuid>ca8507d0-582d-4f72-aa79-412230bfbeb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'PartDescription_New.aspx?PageTitle=Part Description')]</value>
+      <webElementGuid>737d7788-45bd-483d-aa98-7fe4c0c250f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[18]</value>
+      <webElementGuid>dc57676e-0a4e-44d8-af90-2aaa526baa1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'ucMenu_rptLevel1_rptLevel2_0_rptLevel3_0_lnkLink3_17' and @href = 'PartDescription_New.aspx?PageTitle=Part Description' and (text() = 'Part Description' or . = 'Part Description')]</value>
+      <webElementGuid>8b437bf7-281e-49c7-9dbc-b72fcdbb4c63</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

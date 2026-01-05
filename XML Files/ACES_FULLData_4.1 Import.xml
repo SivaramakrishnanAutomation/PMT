@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ACES version="4.1">
+	<Header>
+		<Company>NGK Spark Plugs USA</Company>
+		<SenderName>Kristopher Zdral</SenderName>
+		<SenderPhone>2489266784</SenderPhone>
+		<TransferDate>2021-08-20</TransferDate>
+		<BrandAAIAID>BBBB</BrandAAIAID>
+		<DocumentTitle>IgnitionCoils_ByPartNumber_ACES</DocumentTitle>
+		<EffectiveDate>2021-08-20</EffectiveDate>
+		<SubmissionType>FULL</SubmissionType>
+		<MapperCompany>JNPSoft International</MapperCompany>
+		<MapperEmail>kzdral@ngksparkplugs.com</MapperEmail>
+		<VcdbVersionDate>2021-07-30</VcdbVersionDate>
+		<QdbVersionDate>2021-06-25</QdbVersionDate>
+		<PcdbVersionDate>2021-07-30</PcdbVersionDate>
+	</Header>
+	<App action="A" id="1" validate="yes">
+		<BaseVehicle id="1"/>
+		<EngineBase id="13"/>
+		<Qty>4</Qty>
+		<PartType id="1996"/>
+		<MfrLabel>NGK COP Ignition Coil</MfrLabel>
+		<Part>AutomationTest</Part>
+		<AssetName>PartSmarts-0620_Coils-and-Plugs</AssetName>
+	</App>
+	<Footer>
+		<RecordCount>1</RecordCount>
+	</Footer>
+</ACES>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add Product Attribute Excel</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>536fd21c-e4c9-4136-87a8-0e9b755f6803</testCaseGuid>
+</TestCaseEntity>

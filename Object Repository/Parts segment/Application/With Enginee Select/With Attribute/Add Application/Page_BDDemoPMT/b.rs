@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b</name>
+   <tag></tag>
+   <elementGuidId>e41ce365-710d-429a-8ede-199abb5fbc33</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a > b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='SearchHistory']/ul/li[3]/span/a/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Testing_Automation : Testing_Ecat : Testing&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>848badbb-75f9-41d9-a9cc-6465b690f332</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Testing_Automation </value>
+      <webElementGuid>e9073bde-af5c-409f-98bd-8099e30e2f4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SearchHistory&quot;)/ul[@class=&quot;search_result&quot;]/li[3]/span[@class=&quot;left_text_recent&quot;]/a[1]/b[1]</value>
+      <webElementGuid>0306504e-0fca-4836-9609-f3283667032d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='SearchHistory']/ul/li[3]/span/a/b</value>
+      <webElementGuid>e6ae7885-00e9-41b4-affe-294b81d3171b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ProductLine'])[1]/following::b[1]</value>
+      <webElementGuid>a5758417-d6a2-41fe-b713-f15a71faabf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Part Description'])[1]/following::b[2]</value>
+      <webElementGuid>89971908-e803-4d1f-bdb1-dcf46058b9bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[1]/preceding::b[1]</value>
+      <webElementGuid>9e2c990d-a450-42d3-bd44-a64f37414e3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Testing_Automation']/parent::*</value>
+      <webElementGuid>62e3bea1-76dd-4ba3-a666-3d59f92ebe58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/b</value>
+      <webElementGuid>800032f8-07d2-452a-ada6-62bd7777ba31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Testing_Automation ' or . = 'Testing_Automation ')]</value>
+      <webElementGuid>76eb57b7-17e7-4a77-b5fe-a654fc2604b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,93 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+
+WebUI.click(findTestObject('Object Repository/Export Data/With Brand and PartDescription/All Application/Page_BDDemoPMT/a_Parts_ucMenu_rptLevel1_lnkLink1_4'))
+
+WebUI.click(findTestObject('Export Data/Only Test Line Select/Pies/Pies Export Data Excel/XML/Page_EcatPMT/button_ACES with Raw Notes_PIES'))
+
+WebUI.selectOptionByLabel(findTestObject('Export Data/With Brand and PartDescription/Aces with QDB codes/XML/Page_BDDemoPMT/select__DrpLine'), 
+    'Auto | Auto', false)
+
+WebUI.click(findTestObject('Object Repository/Export Data/With Brand and PartDescription/All Application/Page_BDDemoPMT/h3_Include Equipment_Brandh3'))
+
+WebUI.click(findTestObject('Object Repository/Export Data/With Brand and PartDescription/All Application/Page_BDDemoPMT/input__checkAllbrand'))
+
+WebUI.click(findTestObject('Object Repository/Export Data/With Brand and PartDescription/All Application/Page_BDDemoPMT/input_Select All_BBCW'))
+
+WebUI.click(findTestObject('Object Repository/Export Data/With Brand and PartDescription/All Application/Page_BDDemoPMT/h3_Select All_Parttypeh3'))
+
+WebUI.click(findTestObject('Object Repository/Export Data/With Brand and PartDescription/All Application/Page_BDDemoPMT/input__checkAllPartType'))
+
+WebUI.setText(findTestObject('Object Repository/Export Data/With Brand and PartDescription/All Application/Page_BDDemoPMT/input_You can select only one Part Descript_3b85e3'), 
+    'TestingAutomation')
+
+WebUI.click(findTestObject('Object Repository/Export Data/With Brand and PartDescription/All Application/Page_BDDemoPMT/input_You can select only one Part Descript_26a091'))
+
+WebUI.click(findTestObject('Export Data/With Brand and PartDescription/All Application/Page_BDDemoPMT/input_You can select only one Part Descript_d81630'))
+
+WebUI.click(findTestObject('Object Repository/Export Data/Only Test Line Select/Pies/Pies Export Data Excel/XML/Page_EcatPMT/h3_Please provide the Brand AAIAID with 4 c_2ba38e'), 
+    FailureHandling.OPTIONAL)
+
+not_run: WebUI.click(findTestObject('Object Repository/Export Data/Only Test Line Select/Pies/Pies Export Data Excel/XML/Page_EcatPMT/div_WelcomeQC_wrapper'))
+
+WebUI.setText(findTestObject('Object Repository/Export Data/Only Test Line Select/Pies/Pies Export Data Excel/XML/Page_EcatPMT/input__CompanyNamePIES'), 
+    'PIES xml', FailureHandling.OPTIONAL)
+
+WebUI.setText(findTestObject('Object Repository/Export Data/Only Test Line Select/Pies/Pies Export Data Excel/XML/Page_EcatPMT/input__ContactName'), 
+    '1234567890', FailureHandling.OPTIONAL)
+
+WebUI.setText(findTestObject('Object Repository/Export Data/Only Test Line Select/Pies/Pies Export Data Excel/XML/Page_EcatPMT/input__ContactEmail'), 
+    'QCapa@apaengineering.com', FailureHandling.OPTIONAL)
+
+WebUI.setText(findTestObject('Object Repository/Export Data/Only Test Line Select/Pies/Pies Export Data Excel/XML/Page_EcatPMT/input__PriceSheet'), 
+    '1', FailureHandling.OPTIONAL)
+
+WebUI.selectOptionByIndex(findTestObject('Export Data/Only Test Line Select/Pies/Pies Export Data Excel/XML/Page_BDDemoPMT/select__PIESSubmissionType'), 
+    1, FailureHandling.OPTIONAL)
+
+WebUI.setText(findTestObject('Export Data/Only Test Line Select/Pies/Pies Export Data Excel/XML/Page_BDDemoPMT/input__PIESEffectiveDate'), 
+    '20102002', FailureHandling.OPTIONAL)
+
+WebUI.click(findTestObject('Object Repository/Export Data/Only Test Line Select/Pies/Pies Export Data Excel/XML/Page_EcatPMT/button_Generate CSV_XMLExport'))
+
+
+// Wait for alert
+WebUI.waitForAlert(20, FailureHandling.OPTIONAL)
+
+// Get and print alert text
+String actualAlertText = WebUI.getAlertText(FailureHandling.OPTIONAL)
+
+println('Alert Text: ' + actualAlertText)
+
+// Expected texts
+String expectedAlertText1 = 'Your export is initiated. Please check the Queue Management page for more details'
+
+//print Alert Text 
+println('Alert Text Occurred' + actualAlertText)
+
+// Compare and verify
+if (actualAlertText == expectedAlertText1) {
+	WebUI.verifyMatch(actualAlertText, expectedAlertText1, false, FailureHandling.CONTINUE_ON_FAILURE)
+
+	WebUI.acceptAlert(FailureHandling.OPTIONAL)
+} else {
+	println('Alert text does not match any expected value.')
+
+	KeywordUtil.markWarning('Unexpected alert text: ' + actualAlertText)
+}

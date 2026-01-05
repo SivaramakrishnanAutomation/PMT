@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Defragment Index_fas fa-spinner fa-spin f_b69b51</name>
+   <tag></tag>
+   <elementGuidId>7a9ef3d2-1ba2-44fe-99e4-b7e879d0235e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-spinner.fa-spin.fa-5x.loader_icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='Form1']/div[3]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.fas >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>03f5fa8d-9b03-472c-b570-d35c231eec93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-spinner fa-spin fa-5x loader_icon</value>
+      <webElementGuid>8d40c770-c97b-4a75-a44b-eb56b4eab546</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Form1&quot;)/div[@class=&quot;loader_main_spin&quot;]/i[@class=&quot;fas fa-spinner fa-spin fa-5x loader_icon&quot;]</value>
+      <webElementGuid>05c125d2-b624-46a0-8e07-e2feec4d25e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='Form1']/div[3]/i</value>
+      <webElementGuid>405afe72-8e1b-4c32-ad8e-80db5f0a8147</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>2c784ddb-46b8-4c39-a009-591aa213ad50</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

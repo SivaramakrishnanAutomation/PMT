@@ -1,3 +1,444 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Edit Product category/Page_EcatPMT/img",
+      "brokenLocator": "//div[@id\u003d\"diveditbutton_\u002782\u0027\"]/img",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//img[@alt\u003d\u0027edit\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Edit Product category/Page_EcatPMT/img_img.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Add parts Description/Page_EcatPMT/a_Time 023112 PM_ucMenu_rptLevel1_lnkLink1_0",
+      "brokenLocator": "//a[@id\u003d\u0027ucMenu_rptLevel1_lnkLink1_0\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//li/a",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Add parts Description/Page_EcatPMT/a_Time 023112 PM_ucMenu_rptLevel1_lnkLink1_0_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Master/Part description/Add parts Description/Page_EcatPMT/button_Parts Description_MainContent_btnAdd",
+      "brokenLocator": "//button[@id\u003d\u0027MainContent_btnAdd\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Part Details\u0027])[1]/preceding::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Master/add product line/Page_BDDemoPMT/div_Edit Product Line_btnadd_new",
+      "brokenLocator": "//div[@id\u003d\u0027btnadd_new\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//*/text()[normalize-space(.)\u003d\u0027Add\u0027]/parent::*",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Master/add product line/Page_BDDemoPMT/div_Edit Product Line_btnadd_new_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Parts segment/Brand/Page_PMT/div_concat(id(, , ui-id-7, , ))_ui-id-7",
+      "brokenLocator": "//div[@id\u003d\u0027ui-id-7\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//ul[@id\u003d\u0027ui-id-1\u0027]/li/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Parts segment/Brand/Page_PMT/div_concat(id(, , ui-id-7, , ))_ui-id-7_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Master/part description/Page_BDDemoPMT/select__drpProductCategoryAdd",
+      "brokenLocator": "//select[@id\u003d\u0027drpProductCategoryAdd\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027*\u0027])[1]/following::select[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Master/part description/Page_PMT/div_Edit Part Description_btnadd_new",
+      "brokenLocator": "//div[@id\u003d\u0027btnadd_new\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//form[@id\u003d\u0027Form1\u0027]/div[6]/div/div/div/div/div/div/div/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Master/part description/Page_PMT/div_Edit Part Description_btnadd_new_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Master/interchange name/Edit Interchange name/Page_PMT/img",
+      "brokenLocator": "//div[@id\u003d\"diveditbutton_\u002765\u0027\"]/img",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//img[@alt\u003d\u0027edit\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Master/interchange name/Edit Interchange name/Page_PMT/img_img.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Parts segment/Brand/Add Brand/Page_BDDemoPMT/div_concat(id(, , ui-id-3, , ))_ui-id-3",
+      "brokenLocator": "//div[@id\u003d\u0027ui-id-3\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Please ensure no blank column(s) are left in between the columns with data\u0027])[1]/following::div[4]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Parts segment/Brand/Add Brand/Page_BDDemoPMT/div_concat(id(, , ui-id-3, , ))_ui-id-3_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Parts segment/Part/Add parts/Page_BDDemoPMT/div_Recommended_btnAdd",
+      "brokenLocator": "//div[@id\u003d\u0027btnAdd\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//*/text()[normalize-space(.)\u003d\u0027Add\u0027]/parent::*",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Master/interchange part/Delete Interchange Part/Page_BDDemoPMT/img",
+      "brokenLocator": "//div[@id\u003d\"divdeletebtn_\u0027Testing_Automations\u0027\"]/img",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//img[@alt\u003d\u0027delete\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Master/interchange part/Delete Interchange Part/Page_BDDemoPMT/img_img.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Master/interchange name/Edit Interchange name/Page_BDDemoPMT/img",
+      "brokenLocator": "//div[@id\u003d\"diveditbutton_\u0027243\u0027\"]/img",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//img[@alt\u003d\u0027edit\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Master/interchange name/Edit Interchange name/Page_BDDemoPMT/img_img.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Master/Product Line/Edit product line/Page_BDDemoPMT/img",
+      "brokenLocator": "//div[@id\u003d\"diveditbutton_\u002744\u0027\"]/img",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//img[@alt\u003d\u0027edit\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Master/Product Line/Edit product line/Page_BDDemoPMT/img_img.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Master/Product Line/Delete Product line/Page_BDDemoPMT/img",
+      "brokenLocator": "//div[@id\u003d\"divdeletebtn_\u002744\u0027\"]/img",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//img[@alt\u003d\u0027delete\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Master/Product Line/Delete Product line/Page_BDDemoPMT/img_img.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Master/part description/Edit Parts Description/Page_BDDemoPMT/img",
+      "brokenLocator": "//div[@id\u003d\"diveditbutton_\u00271788\u0027\"]/img",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//img[@alt\u003d\u0027edit\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Master/part description/Edit Parts Description/Page_BDDemoPMT/img_img.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Master/interchange name/Delete Interchange Name/Page_BDDemoPMT/img",
+      "brokenLocator": "//div[@id\u003d\"divdeletebtn_\u0027243\u0027\"]/img",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//img[@alt\u003d\u0027delete\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Master/interchange name/Delete Interchange Name/Page_BDDemoPMT/img_img.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Parts segment/Digital Asset/Add Digital Asset/Page_PMT/h3_Digital Asset_ui-id-1",
+      "brokenLocator": "//h3[@id\u003d\u0027ui-id-1\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027accordion\u0027]/h3",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Parts segment/Digital Asset/Add Digital Asset/Page_PMT/h3_Digital Asset_ui-id-1_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Master/part description/Delete Part description/Page_BDDemoPMT/img",
+      "brokenLocator": "//div[@id\u003d\"divdeletebtn_\u00271788\u0027\"]/img",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//img[@alt\u003d\u0027delete\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Master/part description/Delete Part description/Page_BDDemoPMT/img_img.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Master/Product sub category/Edit Product Sub Category/Page_BDDemoPMT/img",
+      "brokenLocator": "//div[@id\u003d\"diveditbutton_\u0027320\u0027\"]/img",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//img[@alt\u003d\u0027edit\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Master/Product sub category/Edit Product Sub Category/Page_BDDemoPMT/img_img.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Master/Product sub category/Delete Product Sub Category/Page_BDDemoPMT/img",
+      "brokenLocator": "//div[@id\u003d\"divdeletebtn_\u0027327\u0027\"]/img",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//img[@alt\u003d\u0027delete\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Master/Product sub category/Delete Product Sub Category/Page_BDDemoPMT/img_img.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Master/part description/Edit Parts Description/Page_BDDemoPMT/select_Category_drpProductCategory",
+      "brokenLocator": "//select[@id\u003d\u0027drpProductCategory\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Back\u0027])[1]/following::select[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Master/part description/Edit Parts Description/Page_BDDemoPMT/select_Category_drpProductCategory_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Master/part description/Delete Part description/Page_BDDemoPMT/select_Category_drpProductCategory",
+      "brokenLocator": "//select[@id\u003d\u0027drpProductCategory\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Back\u0027])[1]/following::select[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Master/part description/Delete Part description/Page_BDDemoPMT/select_Category_drpProductCategory_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Parts segment/Brand/Add Brand/Page_BDDemoPMT/div_concat(id(, , ui-id-2, , ))_ui-id-2",
+      "brokenLocator": "//div[@id \u003d \u0027ui-id-2\u0027 and (text() \u003d \u0027Suzuki | CNVV\u0027 or . \u003d \u0027Suzuki | CNVV\u0027)]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027ui-id-2\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Parts segment/Application/Without Enginee Select/Without Attribute/Edit Application/Page_BDDemoPMT/img",
+      "brokenLocator": "#BuyersGuid1 \u003e\u003e internal:role\u003dimg \u003e\u003e nth\u003d0",
+      "brokenLocatorMethod": "SMART_LOCATOR",
+      "proposedLocator": "//div[@id\u003d\u0027BuyersGuid1\u0027]/img",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Parts segment/Digital Asset/Add Digital Asset/Page_PMT/img",
+      "brokenLocator": "#DigitalAsset \u003e\u003e internal:role\u003dimg \u003e\u003e nth\u003d0",
+      "brokenLocatorMethod": "SMART_LOCATOR",
+      "proposedLocator": "//div[@id\u003d\u0027DigitalAsset\u0027]/img",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Master/interchange name/Add interchange name/Page_PMT/button__swal2-confirm swal2-styled",
+      "brokenLocator": "(//button[@type\u003d\u0027button\u0027])[4]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//button[@type \u003d \u0027button\u0027 and (text() \u003d \u0027OK\u0027 or . \u003d \u0027OK\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Master/interchange name/Add interchange name/Page_PMT/button__swal2-confirm swal2-styled_customAttributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Master/interchange name/Add interchange name/Page_BDDemoPMT/a_Time 120238 AM_ucMenu_rptLevel1_lnkLink1_0",
+      "brokenLocator": "//*/text()[normalize-space(.)\u003d\u0027Master\u0027]/parent::*",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//li/a",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Master/interchange name/Add interchange name/Page_BDDemoPMT/a_Time 120238 AM_ucMenu_rptLevel1_lnkLink1_0_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Master/interchange name/Add interchange name/Page_BDDemoPMT/div_concat(id(, , ui-id-2, , ))_ui-id-2",
+      "brokenLocator": "//*/text()[normalize-space(.)\u003d\u0027AGS\u0027]/parent::*",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Please ensure no blank column(s) are left in between the columns with data\u0027])[1]/following::div[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Master/interchange name/Add interchange name/Page_BDDemoPMT/div_concat(id(, , ui-id-2, , ))_ui-id-2_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Vehicle/Multi Add/Multi Add without Attributes/Page_BDDemoPMT/button_TestingAutomation_MainContent_imgSave",
+      "brokenLocator": "//button[@id\u003d\u0027MainContent_Button1\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//button[@id\u003d\u0027MainContent_imgSave\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Vehicle/Multi Add/Multi Add without Attributes/Page_BDDemoPMT/button_TestingAutomation_MainContent_imgSave_attributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Master/interchange name/Add interchange name/Page_BDDemoPMT/button__swal2-confirm swal2-styled",
+      "brokenLocator": "(//button[@type\u003d\u0027button\u0027])[4]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[3]/button",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Master/interchange name/Add interchange name/Page_BDDemoPMT/button__swal2-confirm swal2-styled_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Parts segment/Kit Info/Add Kit Info/Page_BDDemoPMT/div_concat(id(, , ui-id-10, , ))_ui-id-10",
+      "brokenLocator": "//div[@id\u003d\u0027ui-id-10\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Please ensure no blank column(s) are left in between the columns with data\u0027])[1]/following::div[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Parts segment/Kit Info/Add Kit Info/Page_BDDemoPMT/div_concat(id(, , ui-id-10, , ))_ui-id-10_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Parts segment/Custom Category/Edit Custom Category/Page_BDDemoPMT/input_PMT_edit_ImageButton35855",
+      "brokenLocator": "//input[@id\u003d\u0027edit_ImageButton35855\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//td[14]/div/span/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Parts segment/Custom Category/Edit Custom Category/Page_BDDemoPMT/input_PMT_edit_ImageButton35855_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Parts segment/Custom Category/Edit Custom Category/Page_BDDemoPMT/input_test_Category235855",
+      "brokenLocator": "//input[@id\u003d\u0027Category235855\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/table/tbody/tr/td[4]/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Parts segment/Custom Category/Edit Custom Category/Page_BDDemoPMT/input_test_Category235855_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Parts segment/Custom Category/Edit Custom Category/Page_BDDemoPMT/input_PMT_save_ImageButton35855",
+      "brokenLocator": "//input[@id\u003d\u0027save_ImageButton35855\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//td[14]/div/span[3]/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Parts segment/Custom Category/Edit Custom Category/Page_BDDemoPMT/input_PMT_save_ImageButton35855_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Parts segment/Custom Category/Delete Custom Category/Page_BDDemoPMT/input_PMT_delete_ImageButton35855",
+      "brokenLocator": "//input[@id\u003d\u0027delete_ImageButton35855\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//td[14]/div/span[2]/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Parts segment/Custom Category/Delete Custom Category/Page_BDDemoPMT/input_PMT_delete_ImageButton35855_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Parts segment/Custom Category/Edit Custom Category/Page_BDDemoPMT/input_Action_glowing-border",
+      "brokenLocator": "//input[@type \u003d \u0027text\u0027 and @placeholder \u003d \u0027Category 1\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(//input[@type\u003d\u0027text\u0027])[26]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Export Data/With Brand and PartDescription/All Application/Page_BDDemoPMT/input_Select All_BBCW",
+      "brokenLocator": "//input[@values\u003d\u0027AGS\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[@id\u003d\u0027BBCW\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Export Data/With Brand and PartDescription/All Application/Page_BDDemoPMT/input_Select All_BBCW_attributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Export Data/With Brand and PartDescription/All Application/Page_BDDemoPMT/input_You can select only one Part Descript_d81630",
+      "brokenLocator": "//input[@values\u003d\u0027ExportTesting002\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[@id\u003d\u00272020\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Export Data/With Brand and PartDescription/All Application/Page_BDDemoPMT/input_You can select only one Part Descript_d81630_attributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Export Data/With Brand and PartDescription/Aces with QDB codes/Page_PMT/input_You can select only one Part Descript_824252",
+      "brokenLocator": "//input[@id\u003d\u002791808\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027chkPartTypelist\u0027]/li/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Export Data/With Brand and PartDescription/Aces with QDB codes/Page_PMT/input_You can select only one Part Descript_824252_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Parts segment/Brand/With Sub Brand/Edit Brand/Page_BDDemoPMT/div_Please ensure no blank column(s) are le_65449c",
+      "brokenLocator": "//*/text()[normalize-space(.)\u003d\u0027Poly-Armour | DXWM\u0027]/parent::*",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Please ensure no blank column(s) are left in between the columns with data\u0027])[1]/following::div[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Parts segment/Brand/With Sub Brand/Edit Brand/Page_BDDemoPMT/div_Please ensure no blank column(s) are le_65449c_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Parts segment/Application/With Enginee Select/With Attribute/Add Application/Page_BDDemoPMT/input_Engine Not Required (All Engines)_chk9_0",
+      "brokenLocator": "//label[text()\u003d\u0027L4 1998CC 122CID 2.0L 3.39 86.0 3.39 86.0\u0027]/preceding-sibling::input[@type\u003d\u0027checkbox\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[@id\u003d\u0027chk9_0\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Parts segment/Application/With Enginee Select/With Attribute/Add Application/Page_BDDemoPMT/input_Engine Not Required (All Engines)_chk9_0_attributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Parts segment/Custom Category/Add Custom Category/Page_BDDemoPMT/input_No Record Found_save_ImageButton4",
+      "brokenLocator": "//input[@name\u003d\u0027ctl03$MainContent$imgSaveButton\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[@id\u003d\u0027save_ImageButton4\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Parts segment/Custom Category/Add Custom Category/Page_BDDemoPMT/input_No Record Found_save_ImageButton4_attributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Parts segment/Interchange/Add Interchange/Page_BDDemoPMT/div_concat(id(, , ui-id-5, , ))_ui-id-5",
+      "brokenLocator": "//div[@class\u003d\u0027ui-menu-item-wrapper\u0027 and contains(text(), \u0027TestingAutomation\u0027)]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//*[@tabindex \u003d \u0027-1\u0027]",
+      "proposedLocatorMethod": "BASIC",
+      "recoveryMethod": "BASIC",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Parts segment/Interchange/Add Interchange/Page_BDDemoPMT/div_concat(id(, , ui-id-5, , ))_ui-id-5_BASIC.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Export Data/With Sub Brand/All Application/Page_PMT/input_Select All_BBCW",
+      "brokenLocator": "//input[@id\u003d\u0027BBCW\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027chkSubbrandlist\u0027]/li/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Export Data/With Sub Brand/All Application/Page_PMT/input_Select All_BBCW_idRelative.png"
+    }
+  ]
 }

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select__MainContent_ddldata</name>
+   <tag></tag>
+   <elementGuidId>9b406177-17fd-4a15-bd9b-c7a97f9c0470</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#MainContent_ddldata</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='MainContent_ddldata']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#MainContent_ddldata</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>e0be7dbe-caaa-4925-9825-11812b133589</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$MainContent$ddldata</value>
+      <webElementGuid>f0633889-cf85-4f75-89a6-97b01f8c07ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>javascript:setTimeout('__doPostBack(\'ctl00$MainContent$ddldata\',\'\')', 0)</value>
+      <webElementGuid>0899b98f-e52e-4617-8dde-56878cc6b9ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>MainContent_ddldata</value>
+      <webElementGuid>7938b5e3-f684-448f-b615-d28737d4db68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	-SELECT-
+	ACES
+	PIES
+
+</value>
+      <webElementGuid>3bc2b406-d402-4e20-bb11-f5644588bc04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MainContent_ddldata&quot;)</value>
+      <webElementGuid>dac7458e-cb3e-4474-a95d-95d61f43e0f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='MainContent_ddldata']</value>
+      <webElementGuid>4f37adf8-aba5-4d81-bd31-03bdc1ea757d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='Form1']/div[6]/div/div/div/table/tbody/tr/td[2]/select</value>
+      <webElementGuid>3c5a0db0-3d0a-4546-ae1a-2d2fec265d70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::select[1]</value>
+      <webElementGuid>0311fbb1-2c14-4969-8fd0-67d5641851d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import Type :'])[1]/following::select[1]</value>
+      <webElementGuid>80f49687-aa58-45a1-9559-c1771eec4975</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Line :'])[1]/preceding::select[1]</value>
+      <webElementGuid>76df1aed-19a0-43f1-a52b-19375d4ea490</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::select[1]</value>
+      <webElementGuid>b64645e4-e25e-4cf9-ad3a-a2db49c60bac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>53f5b9cf-2a7a-4cc1-89af-3ba7f2792575</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$MainContent$ddldata' and @id = 'MainContent_ddldata' and (text() = '
+	-SELECT-
+	ACES
+	PIES
+
+' or . = '
+	-SELECT-
+	ACES
+	PIES
+
+')]</value>
+      <webElementGuid>335fbad4-a9aa-4bff-9020-0d75d611394a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

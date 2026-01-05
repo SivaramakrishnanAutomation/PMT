@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Edit_glowing-border_3</name>
+   <tag></tag>
+   <elementGuidId>0a989a13-b8fa-4a4f-baea-04e28f49c036</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>th:nth-of-type(5) > input.glowing-border</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@value=''])[12]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Engine Details&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>16076883-877a-4db6-a032-85976acdf291</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glowing-border</value>
+      <webElementGuid>4c189583-f72e-4be8-8860-a6b93291fed9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>e6094f3a-56c4-4c69-905c-553258665f05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Engine Details</value>
+      <webElementGuid>e31102f6-824e-493d-86eb-59c8e7ebd1de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tbl_apppartstable_wrapper&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;dataTables_scroll&quot;]/div[@class=&quot;dataTables_scrollFoot&quot;]/div[@class=&quot;dataTables_scrollFootInner&quot;]/table[@class=&quot;table table-striped table-bordered display nowrap dataTable&quot;]/tfoot[1]/tr[1]/th[5]/input[@class=&quot;glowing-border&quot;]</value>
+      <webElementGuid>e4f7e105-78b1-427e-bf29-62b57bbb9641</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Parts segment/Application/Without Enginee Select/With Attribute/Edit Application/Page_BDDemoPMT/iframe</value>
+      <webElementGuid>32a018e8-23fb-4c90-b6b5-43b6010445fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[12]</value>
+      <webElementGuid>f5f5d0b1-982c-4b60-9044-e90f4c361519</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tbl_apppartstable_wrapper']/div[2]/div/div/div[2]/div/table/tfoot/tr/th[5]/input</value>
+      <webElementGuid>ca7b9def-cbdc-46db-b10f-4d858d39f228</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[5]/input</value>
+      <webElementGuid>c0faf8e8-9eef-4b26-9543-8e088586ec9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Engine Details']</value>
+      <webElementGuid>49dc199c-d7fd-40b1-8cc7-5fe421359063</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

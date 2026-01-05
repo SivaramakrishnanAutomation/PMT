@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Parts_ucMenu_rptLevel1_lnkLink1_4</name>
+   <tag></tag>
+   <elementGuidId>4b7ac82e-1bef-4138-bfd8-79c4aee6bea8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Export Data')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ucMenu_rptLevel1_lnkLink1_4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Export Data&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>30a31d37-7878-465d-b882-dfb69961a304</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ucMenu_rptLevel1_lnkLink1_4</value>
+      <webElementGuid>cf1e7a40-827a-4608-8bc7-754c9e56a595</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>main_menu export_data_icon active</value>
+      <webElementGuid>6dda4bfe-030b-402a-853c-6077645bc1e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>../reports/ExportData.aspx?PageTitle=Exports XML</value>
+      <webElementGuid>8673b2c6-0afa-432a-af9c-de8c65c36d76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Export Data</value>
+      <webElementGuid>a7b5182b-2a6c-4ce0-926e-ea7fe381f1b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ucMenu_rptLevel1_lnkLink1_4&quot;)</value>
+      <webElementGuid>6ea628c8-bc77-4ed3-b04c-ddfbd2a488a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='ucMenu_rptLevel1_lnkLink1_4']</value>
+      <webElementGuid>9b2fd1e1-857f-4845-a5db-6b22a5a42d7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='ucMenu_rptLevel1_l1_4']/a</value>
+      <webElementGuid>05c43f8b-b240-4cad-8470-338cd65f8e22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Export Data')]</value>
+      <webElementGuid>87ae56a5-db71-427b-b19f-d4c753a87ba2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Parts'])[1]/following::a[1]</value>
+      <webElementGuid>21b459f9-c8b3-4736-8058-1ea25ac93815</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Equipment'])[1]/following::a[2]</value>
+      <webElementGuid>987df85f-2a95-41b2-8f62-5272de20f8e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Catalogs'])[1]/preceding::a[1]</value>
+      <webElementGuid>5799b01f-24e0-493f-b86d-dccd3286a610</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application'])[1]/preceding::a[2]</value>
+      <webElementGuid>c0fd92dd-20c9-43f9-be46-60daefa5ec54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Export Data']/parent::*</value>
+      <webElementGuid>fd5f585e-bf37-49eb-b71d-f509b64e4a70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '../reports/ExportData.aspx?PageTitle=Exports XML')]</value>
+      <webElementGuid>cd4b94ff-b8be-4270-86cb-711ba480faaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a</value>
+      <webElementGuid>1f13efeb-2fe7-4d8e-b0d3-8a98ddfb5d8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'ucMenu_rptLevel1_lnkLink1_4' and @href = '../reports/ExportData.aspx?PageTitle=Exports XML' and (text() = 'Export Data' or . = 'Export Data')]</value>
+      <webElementGuid>43f6950d-25c6-45d9-abed-3fe2c6497c6e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

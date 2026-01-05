@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<PIES xmlns="http://www.autocare.org">
+<Header>
+<PIESVersion>7.2</PIESVersion>
+<SubmissionType>FULL</SubmissionType>
+<BlanketEffectiveDate>2020-10-12</BlanketEffectiveDate>
+<TechnicalContact>TES</TechnicalContact>
+<ContactEmail>raji.m@apaengineering.com</ContactEmail>
+<PCdbVersionDate>2020-10-12</PCdbVersionDate>
+</Header>
+<Items>
+<Item MaintenanceType="A">
+<HazardousMaterialCode>N</HazardousMaterialCode>
+<ItemLevelGTIN GTINQualifier="EN">33333333333300</ItemLevelGTIN>
+<PartNumber>AutomationTest</PartNumber>
+<BrandAAIAID>BBBB</BrandAAIAID>
+<BrandLabel>3M</BrandLabel>
+<QuantityPerApplication UOM="EA" Qualifier="ZZ1">11</QuantityPerApplication>
+<MinimumOrderQuantity UOM="CA">1</MinimumOrderQuantity>
+<UNSPSC>11111111</UNSPSC><PartTerminologyID>59921</PartTerminologyID>
+<VMRSCode>001001100</VMRSCode><Descriptions>
+<Description LanguageCode="EN" MaintenanceType="A" DescriptionCode="UNS">desc-TEST</Description>
+<Description LanguageCode="EN" MaintenanceType="A" DescriptionCode="SHO">desc-TEST</Description>
+</Descriptions>
+<Prices>
+<Pricing MaintenanceType="D" PriceType="ZZ3">
+<PriceSheetNumber>1</PriceSheetNumber>
+<CurrencyCode>USD</CurrencyCode>
+<Price UOM="PP">1</Price>
+<PriceTypeDescription>TEST</PriceTypeDescription><PriceBreak UOM="CT">100</PriceBreak><PriceMultiplier>1</PriceMultiplier></Pricing>
+</Prices>
+<ExtendedInformation>
+<ExtendedProductInformation LanguageCode="EN" EXPICode="CTS" MaintenanceType="A">TW</ExtendedProductInformation>
+</ExtendedInformation>
+<ProductAttributes>
+<ProductAttribute MaintenanceType="A" AttributeID="242" PADBAttribute="Y" AttributeUOM="MM" RecordNumber="2">67567</ProductAttribute>
+<ProductAttribute MaintenanceType="A" AttributeID="Testentry" PADBAttribute="N" RecordNumber="2">123</ProductAttribute>
+</ProductAttributes>
+<Packages>
+<Package MaintenanceType="A">
+<PackageLevelGTIN>99999999999999</PackageLevelGTIN>
+<PackageBarCodeCharacters>33</PackageBarCodeCharacters>
+<PackageUOM>EA</PackageUOM>
+<QuantityofEaches>3</QuantityofEaches>
+<InnerQuantity InnerQuantityUOM="CP">3</InnerQuantity>
+<Orderable>3</Orderable>
+<Dimensions UOM="PI">
+<MerchandisingHeight>3</MerchandisingHeight>
+<MerchandisingWidth>4</MerchandisingWidth>
+<MerchandisingLength>5</MerchandisingLength>
+<ShippingHeight>6</ShippingHeight>
+<ShippingWidth>5</ShippingWidth>
+<ShippingLength>6</ShippingLength>
+</Dimensions>
+<Weights UOM="PG">
+<Weight>3</Weight>
+</Weights>
+<HazardousMaterial MaintenanceType="A" LanguageCode="EN">
+<ShippingScope>DOM</ShippingScope>
+<Bulk>B</Bulk>
+<RegulatingCountry>TH</RegulatingCountry>
+<TransportMethod>A</TransportMethod>
+<Regulated>Y</Regulated>
+<Description>test</Description>
+<HazardousMaterialCodeQualifier>2</HazardousMaterialCodeQualifier><HazardousMaterialDescription>test</HazardousMaterialDescription>
+<ShippingName>teeest</ShippingName><HazardousPlacardNotation>45</HazardousPlacardNotation><WHMISCode>B.6</WHMISCode><WHMISFreeText>25</WHMISFreeText><PackingGroupCode>III</PackingGroupCode><OuterPackageLabel>89</OuterPackageLabel></HazardousMaterial>
+</Package>
+</Packages>
+<Kits><KitComponent MaintenanceType="A"><ComponentPartNumber IDQualifier="VS">Test-500</ComponentPartNumber><ComponentBrand>BBVS</ComponentBrand><ComponentSubBrand>test</ComponentSubBrand><ComponentSubBrandLabel>test</ComponentSubBrandLabel><Description DescriptionCode="UNS" LanguageCode="DE">approved</Description>
+<ComponentPartTerminologyID>10816</ComponentPartTerminologyID><QuantityInKit UOM="CP">12</QuantityInKit><SequenceCode>12</SequenceCode><SoldSeparately>Y</SoldSeparately></KitComponent></Kits><PartInterchangeInfo>
+<PartInterchange MaintenanceType="A" LanguageCode="EN" BrandAAIAID="DJPL" BrandLabel="TESTING" QualityGradeLevel="O" InternalNotes="TESTER"><PartNumber InterchangeNotes="TESTED RITE">TEST-APPROVED</PartNumber>
+</PartInterchange>
+</PartInterchangeInfo>
+<DigitalAssets>
+<DigitalFileInformation MaintenanceType="A">
+<FileName>2516S_PO1.jpg</FileName>
+<AssetType>P01</AssetType>
+<FileType>JPG</FileType>
+<Representation>A</Representation>
+<OrientationView>FRO</OrientationView>
+<AssetDimensions UOM="PX">
+<AssetHeight>900</AssetHeight>
+<AssetWidth>614</AssetWidth>
+</AssetDimensions>
+</DigitalFileInformation>
+<DigitalFileInformation MaintenanceType="A">
+<FileName>2516S_PO4.jpg</FileName>
+<AssetType>P04</AssetType>
+<FileType>JPG</FileType>
+<Representation>A</Representation>
+<OrientationView>ANG</OrientationView>
+<AssetDimensions UOM="PX">
+<AssetHeight>900</AssetHeight>
+<AssetWidth>614</AssetWidth>
+</AssetDimensions>
+</DigitalFileInformation>
+</DigitalAssets>
+</Item>
+</Items>
+<Trailer>
+<ItemCount>1</ItemCount>
+<TransactionDate>2020-10-12</TransactionDate>
+</Trailer>
+</PIES>

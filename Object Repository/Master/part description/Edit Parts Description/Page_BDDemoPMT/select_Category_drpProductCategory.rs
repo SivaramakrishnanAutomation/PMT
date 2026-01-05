@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Category_drpProductCategory</name>
+   <tag></tag>
+   <elementGuidId>a8cbd7dd-bb02-4639-8877-8a0531bb9f91</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='drpProductCategory']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#drpProductCategory</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#drpProductCategory</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>54c47033-b492-4c80-8fc2-a148d9fa4e20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>drpProductCategory</value>
+      <webElementGuid>20109fc5-3e11-44bb-8239-59c3c5f86d7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            -SELECT-AccessoriesAir and Fuel DeliveryAIR FILTERAir Pressure RegulatorBelts and CoolingBodyBrakeBrake CaliperBrake Pad SetBrake RotorChemicalsDC MotorsDriveline and AxlesElectrical, Charging and StartingElectrical, Lighting and BodyEmission ControlEngineEntertainment and TelematicsEquipmentExhaustFittingFuel Pump AssemblyHardware and Service SuppliesHosesHousehold, Shop and Office ProductsHVACIgnitionMultifunction TermsOIL FILTEROil, Fluids and ChemicalsPadsRole CategoreySafety GlovesShock AbsorberSteeringSuspensionTesting_EcatTie Rod EndTilt &amp; Trim MotorsTire and WheelTransfer CaseTransmissionVacuum MotorsVehicles, Equipment, Tools, and SuppliesWater PumpWiper and Washer</value>
+      <webElementGuid>f5f6902a-7fe5-41b1-aff8-310965a571db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;drpProductCategory&quot;)</value>
+      <webElementGuid>c09c923b-a613-42dc-ad72-80ed7a418788</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='drpProductCategory']</value>
+      <webElementGuid>ba5c60f7-5f02-4e3f-aea0-853c604277a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='categorydrpdataload']/div/select</value>
+      <webElementGuid>b681935f-b361-4c03-92a7-609f1beb1f57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Category:'])[1]/following::select[1]</value>
+      <webElementGuid>41d7e82d-fef6-40ae-9b62-6169ec14e3b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::select[1]</value>
+      <webElementGuid>6af3e033-2742-409d-bca5-328e7916a5b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sub Category:'])[1]/preceding::select[1]</value>
+      <webElementGuid>dc7f4587-cc30-499b-abb5-b6c7123c3bfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Part Description'])[3]/preceding::select[2]</value>
+      <webElementGuid>da39e37b-d9d6-4ccf-80f2-7c20d6af902f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>b0ab948d-49bf-4b84-843c-5ba12a5d5df4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'drpProductCategory' and (text() = '
+            -SELECT-AccessoriesAir and Fuel DeliveryAIR FILTERAir Pressure RegulatorBelts and CoolingBodyBrakeBrake CaliperBrake Pad SetBrake RotorChemicalsDC MotorsDriveline and AxlesElectrical, Charging and StartingElectrical, Lighting and BodyEmission ControlEngineEntertainment and TelematicsEquipmentExhaustFittingFuel Pump AssemblyHardware and Service SuppliesHosesHousehold, Shop and Office ProductsHVACIgnitionMultifunction TermsOIL FILTEROil, Fluids and ChemicalsPadsRole CategoreySafety GlovesShock AbsorberSteeringSuspensionTesting_EcatTie Rod EndTilt &amp; Trim MotorsTire and WheelTransfer CaseTransmissionVacuum MotorsVehicles, Equipment, Tools, and SuppliesWater PumpWiper and Washer' or . = '
+            -SELECT-AccessoriesAir and Fuel DeliveryAIR FILTERAir Pressure RegulatorBelts and CoolingBodyBrakeBrake CaliperBrake Pad SetBrake RotorChemicalsDC MotorsDriveline and AxlesElectrical, Charging and StartingElectrical, Lighting and BodyEmission ControlEngineEntertainment and TelematicsEquipmentExhaustFittingFuel Pump AssemblyHardware and Service SuppliesHosesHousehold, Shop and Office ProductsHVACIgnitionMultifunction TermsOIL FILTEROil, Fluids and ChemicalsPadsRole CategoreySafety GlovesShock AbsorberSteeringSuspensionTesting_EcatTie Rod EndTilt &amp; Trim MotorsTire and WheelTransfer CaseTransmissionVacuum MotorsVehicles, Equipment, Tools, and SuppliesWater PumpWiper and Washer')]</value>
+      <webElementGuid>e4c18b43-a598-4d0d-abe4-10916615023f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

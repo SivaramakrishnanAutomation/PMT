@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select__drpProductCategoryAdd</name>
+   <tag></tag>
+   <elementGuidId>61d0c390-7694-4e1c-9968-6959f28b0425</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='drpProductCategoryAdd']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#drpProductCategoryAdd</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#drpProductCategoryAdd</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>70e02184-d6cd-45f4-afec-2f71e74dc381</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>drpProductCategoryAdd</value>
+      <webElementGuid>085a502f-db51-4b51-9cea-1fe13fc9039c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            -SELECT- HVAC Blower Motor Resistor Kit1143813874ABCAccessories and FluidsAccessories002Air and Fuel DeliveryAir Dam Air Filter3Alternator SprintAuxiliary LightBearingBelts and CoolingBodyBrakeBrakecat testCV Axle Shaft Dai_PCDATA DEVICEDecription testdescriptionDoor Holder KitDriveline and AxlesElectrical TapeElectrical TapeElectrical TapeElectrical TapeElectrical TapeElectrical TapeElectrical TapeElectrical TapeElectrical TapeElectrical TapeElectrical TapeElectrical TapedsadsdasaaElectrical, Charging and StartingElectrical, Lighting and BodyEmission ControlEngineEngineEntertainment and TelematicsExhaustFilterHardware and Service SuppliesHousehold, Shop and Office ProductsHVACIgnitionMultifunction TermsNeedile BearingOil, Fluids and ChemicalsOtherspartPartsPrakashPumpsrk_cat01rk_description1Role CategoreysampleSample DescriptionSchool Bus Stop Arm Bearing AssemblySteeringStg-TestSuspensionTail Light Wiring HarnessteestTestTest descriptionTest SockTest Socketstest-2011test2102plumbingtest2411test2812TestcategoryTestDesctestingTesting_Ecattestkt001Testparttestparttypetestshyam001testsivTire and WheelToolsTools and EquipmentTransfer CaseTransmissionUnassigned CategoryVehicles, Equipment, Tools, and SuppliesWiper and Washer</value>
+      <webElementGuid>4bfe146c-cc79-4d5e-bebf-95b6690bd930</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;drpProductCategoryAdd&quot;)</value>
+      <webElementGuid>e8513be9-4949-4ad4-affc-74e18b99187b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='drpProductCategoryAdd']</value>
+      <webElementGuid>110ca844-20d2-4193-8247-1b61a92a864c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='DataCorner']/div/ul/li/select</value>
+      <webElementGuid>377c281d-6908-4728-96e1-0c6c8e09056d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::select[1]</value>
+      <webElementGuid>b04fa761-c1db-41ec-af91-52c1b9a1ec55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product SubCategory'])[1]/preceding::select[1]</value>
+      <webElementGuid>7f910536-f03e-4b4e-a8a0-ca09a72758fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::select[1]</value>
+      <webElementGuid>67253329-4347-4002-8a59-47f6d47a23d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/select</value>
+      <webElementGuid>78568ce6-63b6-405c-ad19-2253188abc83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'drpProductCategoryAdd' and (text() = '
+                            -SELECT- HVAC Blower Motor Resistor Kit1143813874ABCAccessories and FluidsAccessories002Air and Fuel DeliveryAir Dam Air Filter3Alternator SprintAuxiliary LightBearingBelts and CoolingBodyBrakeBrakecat testCV Axle Shaft Dai_PCDATA DEVICEDecription testdescriptionDoor Holder KitDriveline and AxlesElectrical TapeElectrical TapeElectrical TapeElectrical TapeElectrical TapeElectrical TapeElectrical TapeElectrical TapeElectrical TapeElectrical TapeElectrical TapeElectrical TapedsadsdasaaElectrical, Charging and StartingElectrical, Lighting and BodyEmission ControlEngineEngineEntertainment and TelematicsExhaustFilterHardware and Service SuppliesHousehold, Shop and Office ProductsHVACIgnitionMultifunction TermsNeedile BearingOil, Fluids and ChemicalsOtherspartPartsPrakashPumpsrk_cat01rk_description1Role CategoreysampleSample DescriptionSchool Bus Stop Arm Bearing AssemblySteeringStg-TestSuspensionTail Light Wiring HarnessteestTestTest descriptionTest SockTest Socketstest-2011test2102plumbingtest2411test2812TestcategoryTestDesctestingTesting_Ecattestkt001Testparttestparttypetestshyam001testsivTire and WheelToolsTools and EquipmentTransfer CaseTransmissionUnassigned CategoryVehicles, Equipment, Tools, and SuppliesWiper and Washer' or . = '
+                            -SELECT- HVAC Blower Motor Resistor Kit1143813874ABCAccessories and FluidsAccessories002Air and Fuel DeliveryAir Dam Air Filter3Alternator SprintAuxiliary LightBearingBelts and CoolingBodyBrakeBrakecat testCV Axle Shaft Dai_PCDATA DEVICEDecription testdescriptionDoor Holder KitDriveline and AxlesElectrical TapeElectrical TapeElectrical TapeElectrical TapeElectrical TapeElectrical TapeElectrical TapeElectrical TapeElectrical TapeElectrical TapeElectrical TapeElectrical TapedsadsdasaaElectrical, Charging and StartingElectrical, Lighting and BodyEmission ControlEngineEngineEntertainment and TelematicsExhaustFilterHardware and Service SuppliesHousehold, Shop and Office ProductsHVACIgnitionMultifunction TermsNeedile BearingOil, Fluids and ChemicalsOtherspartPartsPrakashPumpsrk_cat01rk_description1Role CategoreysampleSample DescriptionSchool Bus Stop Arm Bearing AssemblySteeringStg-TestSuspensionTail Light Wiring HarnessteestTestTest descriptionTest SockTest Socketstest-2011test2102plumbingtest2411test2812TestcategoryTestDesctestingTesting_Ecattestkt001Testparttestparttypetestshyam001testsivTire and WheelToolsTools and EquipmentTransfer CaseTransmissionUnassigned CategoryVehicles, Equipment, Tools, and SuppliesWiper and Washer')]</value>
+      <webElementGuid>b7badc81-c739-44c5-a89c-ea42d9372c68</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

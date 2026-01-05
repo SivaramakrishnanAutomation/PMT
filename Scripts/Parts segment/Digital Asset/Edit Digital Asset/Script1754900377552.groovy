@@ -1,0 +1,41 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+
+WebUI.waitForElementVisible(findTestObject('Object Repository/Parts segment/Digital Asset/Edit Digital Asset/Page_PMT/img'), 
+    10)
+
+WebUI.click(findTestObject('Object Repository/Parts segment/Digital Asset/Edit Digital Asset/Page_PMT/img'))
+
+WebUI.waitForElementVisible(findTestObject('Object Repository/Parts segment/Digital Asset/Edit Digital Asset/Page_PMT/input_Delete_glowing-border'), 
+    10)
+
+WebUI.click(findTestObject('Object Repository/Parts segment/Digital Asset/Edit Digital Asset/Page_PMT/img'))
+
+WebUI.click(findTestObject('Object Repository/Parts segment/Digital Asset/Edit Digital Asset/Page_PMT/input_image'))
+
+WebUI.uploadFile(findTestObject('Parts segment/Digital Asset/Edit Digital Asset/Page_PMT/input_Please select one or more files to upload_EditImage'), 
+    'C:\\Katalon Assets Files\\katalon Digital asset img\\pink.jpg')
+
+WebUI.click(findTestObject('Object Repository/Parts segment/Digital Asset/Edit Digital Asset/Page_PMT/div_Save_btnEdit_digital'))
+
+WebUI.click(findTestObject('Object Repository/Parts segment/Digital Asset/Edit Digital Asset/Page_PMT/button__swal2-confirm swal2-styled'))
+
+WebUI.setText(findTestObject('Object Repository/Parts segment/Digital Asset/Edit Digital Asset/Page_PMT/input_Delete_glowing-border_1'), 
+    'pink')
+

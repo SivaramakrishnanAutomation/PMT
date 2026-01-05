@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Forgot Password_login-button-sec</name>
+   <tag></tag>
+   <elementGuidId>58cb3ab5-be3d-4c24-837a-c7c72715c62e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='admin_login_main']/div[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.login-button-sec</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#admin_login_main div >> internal:has-text=&quot;Submit&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>915866f1-ec9e-40d7-bc89-0c6c44017793</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>login-button-sec</value>
+      <webElementGuid>e8cfa914-c863-4ce0-bcbd-40cb19c9c478</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;admin_login_main&quot;)/div[@class=&quot;login-button-sec&quot;]</value>
+      <webElementGuid>d29b9c60-7691-442d-aadc-d2c314a8a04d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='admin_login_main']/div[6]</value>
+      <webElementGuid>21bc64b9-a9d9-4203-9950-5eb9e6e3d157</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password'])[2]/following::div[1]</value>
+      <webElementGuid>1a81e6e9-5827-4c08-8b65-b66aa49d2b36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password'])[1]/following::div[2]</value>
+      <webElementGuid>8b7090c6-5e6b-4db2-8b4d-bd4223177bc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Management Tool'])[1]/preceding::div[2]</value>
+      <webElementGuid>98030452-e40a-4bb2-9ec2-182ea4d3792d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Secure, Web Repository'])[1]/preceding::div[3]</value>
+      <webElementGuid>619dc23c-7a0e-46c4-bab1-90c96eecf641</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]</value>
+      <webElementGuid>9905f33b-d82c-4c86-b997-a48ed248b7de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

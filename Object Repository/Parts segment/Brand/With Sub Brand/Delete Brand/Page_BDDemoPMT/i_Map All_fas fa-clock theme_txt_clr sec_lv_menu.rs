@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Map All_fas fa-clock theme_txt_clr sec_lv_menu</name>
+   <tag></tag>
+   <elementGuidId>5f80ebfa-f710-40bb-a990-b8f33454af08</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-clock.theme_txt_clr.sec_lv_menu</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='divcontainer']/div/div[4]/div/div[7]/div/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(7) > .icon_dashboard > .fas</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>47991b8f-245b-4ed6-b2d6-44828ea35cb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-clock theme_txt_clr sec_lv_menu</value>
+      <webElementGuid>39080379-a04e-4a0a-9cf9-f19272a2c153</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;divcontainer&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;upper-main-header&quot;]/div[@class=&quot;header_icon&quot;]/div[@class=&quot;top_menu_icon&quot;]/div[@class=&quot;icon_dashboard btn-floating bg_white hover_element&quot;]/i[@class=&quot;fas fa-clock theme_txt_clr sec_lv_menu&quot;]</value>
+      <webElementGuid>379fceed-6b54-4b2b-bc47-047308fab668</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='divcontainer']/div/div[4]/div/div[7]/div/i</value>
+      <webElementGuid>50b44213-f492-4ce9-bfe9-cad66cd68c31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/i</value>
+      <webElementGuid>9a728fa3-2649-44c4-b031-e6df783cf4e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

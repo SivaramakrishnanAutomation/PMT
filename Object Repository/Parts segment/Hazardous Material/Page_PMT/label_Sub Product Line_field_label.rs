@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Sub Product Line_field_label</name>
+   <tag></tag>
+   <elementGuidId>cb3895c2-7733-45e2-8331-ef1ddc2294b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//label[@id=''])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Shipping Scope *&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>0bc2da6f-a367-4657-87ee-bad66bc6938c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>field_label</value>
+      <webElementGuid>13a90ca4-3d22-41bf-9ac3-7c1146589221</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shipping Scope  *</value>
+      <webElementGuid>01e3bd6a-0b05-4ea5-8de7-d200fd6627a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;piespages&quot;)/div[@class=&quot;parts_main_div&quot;]/div[@class=&quot;dvSearchPart&quot;]/div[@class=&quot;field_section&quot;]/div[@class=&quot;field_25&quot;]/label[@class=&quot;field_label&quot;]</value>
+      <webElementGuid>539b10ee-0414-4c42-b65a-e7c4998a92a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//label[@id=''])[2]</value>
+      <webElementGuid>91580cae-8d39-4bc5-a74e-7c9a65c42749</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='piespages']/div[2]/div[2]/div[2]/div[2]/label</value>
+      <webElementGuid>40be8eae-99df-4e5f-915a-c31ae8a60dae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sub Product Line'])[1]/following::label[1]</value>
+      <webElementGuid>32f2ab0d-4905-4630-b6fd-ad7a2cc27999</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LastUpdatedDate:'])[1]/following::label[3]</value>
+      <webElementGuid>51103986-d6f2-4514-9b32-0d644743f79f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Shipping Scope']/parent::*</value>
+      <webElementGuid>17acd2b7-4859-447c-8128-fa485a1a2fd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/label</value>
+      <webElementGuid>25d47065-c350-4e22-b463-fa0df4a9cf8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Shipping Scope  *' or . = 'Shipping Scope  *')]</value>
+      <webElementGuid>d41962d4-8d95-47c9-bc8a-7bb720a84c7b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
