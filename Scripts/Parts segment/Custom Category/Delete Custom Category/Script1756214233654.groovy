@@ -31,6 +31,8 @@ WebUI.setText(findTestObject('Object Repository/Parts segment/Custom Category/De
 WebUI.setText(findTestObject('Object Repository/Parts segment/Custom Category/Delete Custom Category/Page_BDDemoPMT/input_Action_glowing-border_1'), 
     'test')
 
+WebUI.click(findTestObject('Parts segment/delete checkbox'))
+
 WebUI.click(findTestObject('Object Repository/Parts segment/Custom Category/Delete Custom Category/Page_BDDemoPMT/input_PMT_delete_ImageButton35855'))
 
 not_run: WebUI.waitForElementClickable(findTestObject('Parts segment/Custom Category/Delete Custom Category/Page_BDDemoPMT/input_PMT_delete_ImageButton35855'), 

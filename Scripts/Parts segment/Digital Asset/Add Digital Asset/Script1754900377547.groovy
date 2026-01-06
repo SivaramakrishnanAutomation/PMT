@@ -17,10 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Login/login'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('part search box/Enter part number2'), [:], FailureHandling.STOP_ON_FAILURE)
-
 WebUI.waitForElementVisible(findTestObject('Object Repository/Parts segment/Digital Asset/Add Digital Asset/Page_PMT/img'), 
     10)
 

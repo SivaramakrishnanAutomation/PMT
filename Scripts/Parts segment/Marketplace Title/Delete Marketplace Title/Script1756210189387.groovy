@@ -28,6 +28,8 @@ WebUI.waitForElementVisible(findTestObject('Parts segment/Marketplace Title/Edit
 WebUI.setText(findTestObject('Parts segment/Marketplace Title/Edit Marketplace Title/Page_BDDemoPMT/input_No-Override_glowing-border'), 
     'Testing Automation')
 
+WebUI.click(findTestObject('Parts segment/delete checkbox'))
+
 WebUI.click(findTestObject('Object Repository/Parts segment/Marketplace Title/Delete Marketplace Title/Page_BDDemoPMT/input_image'))
 
 WebUI.click(findTestObject('Object Repository/Parts segment/Marketplace Title/Delete Marketplace Title/Page_BDDemoPMT/button__swal2-confirm swal2-styled'))

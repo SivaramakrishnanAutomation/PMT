@@ -17,6 +17,10 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.callTestCase(findTestCase('Login/login'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('part search box/Enter part number2'), [:], FailureHandling.STOP_ON_FAILURE)
+
 WebUI.waitForElementVisible(findTestObject('Object Repository/Parts segment/Kit Info/Add Kit Info/Page_BDDemoPMT/img'), 
     10)
 
@@ -25,15 +29,11 @@ WebUI.click(findTestObject('Object Repository/Parts segment/Kit Info/Add Kit Inf
 WebUI.waitForElementVisible(findTestObject('Object Repository/Parts segment/Kit Info/Delete Kit Info/Page_BDDemoPMT/input_Action_glowing-border'), 
     10)
 
-WebUI.setText(findTestObject('Object Repository/Parts segment/Kit Info/Delete Kit Info/Page_BDDemoPMT/input_Action_glowing-border'), 
-    'Testing Automation')
+WebUI.click(findTestObject('Parts segment/delete checkbox'))
 
 WebUI.click(findTestObject('Object Repository/Parts segment/Kit Info/Delete Kit Info/Page_BDDemoPMT/input_image'))
 
 WebUI.click(findTestObject('Object Repository/Parts segment/Kit Info/Delete Kit Info/Page_BDDemoPMT/button__swal2-confirm swal2-styled'))
 
 WebUI.click(findTestObject('Object Repository/Parts segment/Kit Info/Delete Kit Info/Page_BDDemoPMT/button__swal2-confirm swal2-styled'))
-
-WebUI.setText(findTestObject('Object Repository/Parts segment/Kit Info/Delete Kit Info/Page_BDDemoPMT/input_Action_glowing-border'), 
-    'Testing Automation')
 

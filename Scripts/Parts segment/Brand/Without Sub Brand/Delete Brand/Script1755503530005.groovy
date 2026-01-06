@@ -27,11 +27,13 @@ WebUI.waitForElementVisible(findTestObject('Object Repository/Parts segment/Bran
 WebUI.setText(findTestObject('Object Repository/Parts segment/Brand/Without Sub Brand/Delete Brand/Page_BDDemoPMT/input_Delete_glowing-border'), 
     'Tata')
 
-WebUI.click(findTestObject('Object Repository/Parts segment/Brand/Without Sub Brand/Delete Brand/Page_BDDemoPMT/input_image'))
+WebUI.click(findTestObject('Parts segment/delete checkbox'))
 
-WebUI.click(findTestObject('Object Repository/Parts segment/Brand/Without Sub Brand/Delete Brand/Page_BDDemoPMT/button__swal2-confirm swal2-styled'))
+WebUI.click(findTestObject('Object Repository/Parts segment/Brand/With Sub Brand/Delete Brand/Page_BDDemoPMT/input_image'))
 
-WebUI.click(findTestObject('Object Repository/Parts segment/Brand/Without Sub Brand/Delete Brand/Page_BDDemoPMT/button__swal2-confirm swal2-styled'))
+WebUI.click(findTestObject('Object Repository/Parts segment/Brand/With Sub Brand/Delete Brand/Page_BDDemoPMT/button__swal2-confirm swal2-styled'))
+
+WebUI.click(findTestObject('Object Repository/Parts segment/Brand/With Sub Brand/Delete Brand/Page_BDDemoPMT/button__swal2-confirm swal2-styled'))
 
 WebUI.setText(findTestObject('Object Repository/Parts segment/Brand/Without Sub Brand/Delete Brand/Page_BDDemoPMT/input_Delete_glowing-border'), 
     'Tata')

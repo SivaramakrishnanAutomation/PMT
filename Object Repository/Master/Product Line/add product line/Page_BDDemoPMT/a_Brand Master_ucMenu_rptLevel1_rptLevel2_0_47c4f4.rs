@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[text()='Product Line']</value>
+         <value>//a[contains(text(),'Product Line')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>72659486-dcc3-43bc-9616-45711b713242</webElementGuid>
+      <webElementGuid>30ccd90e-1774-4ccd-94a0-493cc17cbb94</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>ucMenu_rptLevel1_rptLevel2_0_rptLevel3_0_lnkLink3_4</value>
-      <webElementGuid>fea397f7-a98b-4043-b7b2-a4c09c296977</webElementGuid>
+      <webElementGuid>e5d19a92-da9e-4bfc-955e-c3d79a351902</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>href</name>
       <type>Main</type>
       <value>AddMfrBrand.aspx?PageTitle=Product Line</value>
-      <webElementGuid>f35884b8-c5bd-4df9-bc42-4324ab84c3ce</webElementGuid>
+      <webElementGuid>f9c5d010-769e-4754-ba2d-79bee6ccc274</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Product Line</value>
-      <webElementGuid>a661fbeb-5f80-4461-843e-77b98de5dc2d</webElementGuid>
+      <webElementGuid>152ddd5d-4bd7-4172-ac0d-01c48f226754</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ucMenu_rptLevel1_rptLevel2_0_rptLevel3_0_lnkLink3_4&quot;)</value>
-      <webElementGuid>bb30957d-bd93-4537-8617-c2e12e8ecca3</webElementGuid>
+      <webElementGuid>b8583a5d-085c-46c3-939b-a23aa32fe352</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='ucMenu_rptLevel1_rptLevel2_0_rptLevel3_0_lnkLink3_4']</value>
-      <webElementGuid>41f298e7-f95a-4de6-8730-1bb0c3513df0</webElementGuid>
+      <webElementGuid>b0182036-9ab2-4474-93e0-722e646b558b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='ucMenu_rptLevel1_l1_0']/div/div/div/div/a[5]</value>
-      <webElementGuid>71d7f8f5-8e8e-4d7b-a4f0-dd31532306b2</webElementGuid>
+      <webElementGuid>56c21c8b-5b33-43c9-aa37-485f2d22b9d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Product Line')]</value>
-      <webElementGuid>a0bc0661-57fa-421b-8dd1-c775e6916784</webElementGuid>
+      <webElementGuid>5d5e4a35-69e7-4ca0-b4a6-81a5628a588c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Brand Master'])[1]/following::a[1]</value>
-      <webElementGuid>12c11b1b-c490-4cf6-b88f-bd7b56f5ee84</webElementGuid>
+      <webElementGuid>715b189f-bc70-42bb-8264-3582165aeba7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Receiver Files'])[1]/following::a[2]</value>
-      <webElementGuid>0bc9582e-f937-4704-bb3d-609c49ec1166</webElementGuid>
+      <webElementGuid>22e10d33-5369-41af-8aba-415f79feb998</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Web Category'])[1]/preceding::a[1]</value>
-      <webElementGuid>5f09e865-925c-4f29-bb30-2ad45ce15023</webElementGuid>
+      <webElementGuid>9d4a3d5f-cf85-4bdf-89b3-61a5707beea3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sub Product Line Master'])[1]/preceding::a[2]</value>
-      <webElementGuid>c1fb9801-fce3-4f92-95bb-60ea2ed3c8f6</webElementGuid>
+      <webElementGuid>b94b2967-4dbe-4c13-a41f-4ba8cfb2b98f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Product Line']/parent::*</value>
-      <webElementGuid>21b429e0-d392-4e41-8c46-a5f6d8b52372</webElementGuid>
+      <webElementGuid>b5f30813-49cb-4a1d-a187-cf323f8908bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'AddMfrBrand.aspx?PageTitle=Product Line')]</value>
-      <webElementGuid>3a73674f-3c80-470b-9b87-a57d516b019a</webElementGuid>
+      <webElementGuid>869c232c-18e7-4411-853b-544f4b268556</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[5]</value>
-      <webElementGuid>ccb4a922-e42d-42e7-86ab-f8390dd4c794</webElementGuid>
+      <webElementGuid>08e379bb-984d-4542-82ec-e70d7a6680d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,6 +149,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = 'ucMenu_rptLevel1_rptLevel2_0_rptLevel3_0_lnkLink3_4' and @href = 'AddMfrBrand.aspx?PageTitle=Product Line' and (text() = 'Product Line' or . = 'Product Line')]</value>
-      <webElementGuid>a2e99818-969c-41e4-9d9b-ceaf79f213b0</webElementGuid>
+      <webElementGuid>bdb1a056-a640-40f8-8d92-eb12812d987a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

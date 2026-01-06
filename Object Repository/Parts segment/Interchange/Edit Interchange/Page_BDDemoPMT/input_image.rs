@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//input[@type='image'])[7]</value>
+         <value>(//input[@type='image'])[8]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>cbaf957c-c2be-466f-a5b1-029c83fb4504</webElementGuid>
+      <webElementGuid>336e7fa4-ba2e-40f2-9db6-e7f4d32afa31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>image</value>
-      <webElementGuid>766e8563-72c1-4c17-84f9-acc78c5e6cb3</webElementGuid>
+      <webElementGuid>5f0d4b9c-e0a1-4c95-a2b6-c4fee3ead717</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>src</name>
       <type>Main</type>
       <value>//bddemo.apapmt.com/Images/New_design_img/edit_icon.png</value>
-      <webElementGuid>844d4d70-110c-4b11-9db2-6662b51c8050</webElementGuid>
+      <webElementGuid>0ffc34a3-663a-4485-a18c-2f51619a4298</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>storeId('146312');</value>
-      <webElementGuid>a2536e31-477b-47ef-9cd6-3227db4511be</webElementGuid>
+      <webElementGuid>630e9939-1b79-482f-8771-f26b93b8c4c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;DataTableViewer&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[8]/div[1]/input[1]</value>
-      <webElementGuid>b94ca5fd-a564-432a-a9ec-64103ff85eb8</webElementGuid>
+      <webElementGuid>d9ba890c-06d6-4bc4-a8ed-5dfb5b46f0df</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@type='image'])[7]</value>
-      <webElementGuid>ec0970c3-6e48-409d-934f-11b1b4d34cfa</webElementGuid>
+      <webElementGuid>c8a026a3-bcfe-40eb-916d-8e426b724ff3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='DataTableViewer']/tbody/tr/td[8]/div/input</value>
-      <webElementGuid>1d6b8a72-c937-4ab4-ac86-01aa28fb230a</webElementGuid>
+      <webElementGuid>ae5fdf3a-de1a-4b94-93c1-87d3a0236051</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[8]/div/input</value>
-      <webElementGuid>1cbab5e7-f7a5-48cd-8313-71ee5d485547</webElementGuid>
+      <webElementGuid>1c7a9dcf-315e-4d35-a533-5f15e8107645</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'image' and @src = '//bddemo.apapmt.com/Images/New_design_img/edit_icon.png']</value>
-      <webElementGuid>c8d69f0b-3a80-4054-ac1a-4e7f4f51f69d</webElementGuid>
+      <webElementGuid>6e07ab6f-58e9-47c1-a03f-5fbe4aa333c3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

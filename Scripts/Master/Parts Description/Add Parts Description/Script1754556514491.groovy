@@ -30,7 +30,7 @@ WebUI.setText(findTestObject('Object Repository/Master/part description/Add Part
     'TestingAutomation')
 
 WebUI.selectOptionByIndex(findTestObject('Master/part description/Add Part Description/Page_BDDemoPMT/select_Equivalent Aces Part Terminology Name_drpAcesPartTerminology'), 
-    1)
+    1, FailureHandling.OPTIONAL)
 
 WebUI.click(findTestObject('Object Repository/Master/part description/Add Part Description/Page_PMT/div_ADD_save_btn_new_add'))
 

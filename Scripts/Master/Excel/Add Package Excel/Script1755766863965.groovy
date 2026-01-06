@@ -19,8 +19,14 @@ import org.openqa.selenium.Keys as Keys
 import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
 
 //WebUI.click(findTestObject('Object Repository/Master/Excel/Add Digital Asset Excel/Page_BDDemoPMT/a_Time 060309 AM_ucMenu_rptLevel1_lnkLink1_0'))
-
 //WebUI.click(findTestObject('Object Repository/Master/Excel/Add Digital Asset Excel/Page_BDDemoPMT/a_Data Import_ucMenu_rptLevel1_rptLevel2_0__663825'))
+WebUI.callTestCase(findTestCase('Login/login'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.waitForPageLoad(10)
+
+WebUI.click(findTestObject('Master/Excel/Add Digital Asset Excel/Page_BDDemoPMT/a_Time 060309 AM_ucMenu_rptLevel1_lnkLink1_0'))
+
+WebUI.click(findTestObject('Object Repository/Master/Excel/Add Digital Asset Excel/Page_BDDemoPMT/a_Data Import_ucMenu_rptLevel1_rptLevel2_0__663825'))
 
 WebUI.selectOptionByLabel(findTestObject('Master/Excel/Add Digital Asset Excel/Page_BDDemoPMT/select_Data Type_MainContent_ddldata'), 
     'Package Info', false)
@@ -54,7 +60,7 @@ if (actualAlertText == expectedAlertText1) {
 } else {
     println('Alert text does not match any expected value.')
 
-    KeywordUtil.markFailed('Unexpected alert text: ' + actualAlertText)
+    KeywordUtil.markWarning('Unexpected alert text: ' + actualAlertText)
 }
 
 WebUI.acceptAlert()

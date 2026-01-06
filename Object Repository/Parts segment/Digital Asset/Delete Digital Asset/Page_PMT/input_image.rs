@@ -6,12 +6,12 @@
    <elementGuidId>4178822a-ae9d-4f8e-bbbf-8fd88bbc601e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//input[@type='image'])[5]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>td:nth-of-type(10) > div > input[type=&quot;image&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id='blkdeleteasset']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>12918abc-3572-4f37-ad16-112852cbdaba</webElementGuid>
+      <webElementGuid>cd83398f-5f56-4842-bb95-04a97ee78014</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>image</value>
-      <webElementGuid>2de9d4b7-4b23-4aa3-8d27-a53de16bb21c</webElementGuid>
+      <webElementGuid>2d4a8055-5761-4548-9e4b-398e1bff0415</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://qpmt-all.apapmt.com/Images/delete_black.png</value>
-      <webElementGuid>8478e393-54ce-43c9-9f40-5016bb5c92b6</webElementGuid>
+      <webElementGuid>acb93891-d783-4913-b7e1-b97e54519b7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>return deleteAsset('7367', 'pink.jpg');</value>
-      <webElementGuid>b221ae61-61d3-4ede-b22c-e4e3f57a99ba</webElementGuid>
+      <webElementGuid>1c2976bf-3109-45ab-afc4-8db574719922</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;DataTableViewer&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[10]/div[1]/input[1]</value>
-      <webElementGuid>facadca8-8ba1-40dd-af38-c3c9d0a4ebc8</webElementGuid>
+      <webElementGuid>8377bdce-d582-4ea8-a684-0bafbb788286</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@type='image'])[5]</value>
-      <webElementGuid>bc9a5b8c-03c2-4214-896e-826ebe29dd43</webElementGuid>
+      <webElementGuid>195f4fda-e6ac-4292-8c80-5bd2d38f1273</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='DataTableViewer']/tbody/tr/td[10]/div/input</value>
-      <webElementGuid>5ea207e0-6f0a-4087-a1f3-853983f2f424</webElementGuid>
+      <webElementGuid>f9390835-cc5c-471b-bcc1-4186c3a1c2e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[10]/div/input</value>
-      <webElementGuid>3addf968-303d-4800-82f7-c4d20a96c75b</webElementGuid>
+      <webElementGuid>47cc74db-e42c-49b8-9e04-414b1dd99b79</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'image' and @src = 'https://qpmt-all.apapmt.com/Images/delete_black.png']</value>
-      <webElementGuid>7f01fc4d-f147-4292-948c-52c77cfbd80c</webElementGuid>
+      <webElementGuid>18025136-bbe4-4e0e-924f-577fe15195bf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

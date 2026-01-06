@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//input[@type='image'])[4]</value>
+         <value>(//input[@type='image'])[5]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>157437f9-7f6d-4f21-bfe2-cf71454e789b</webElementGuid>
+      <webElementGuid>3b5c7736-04fd-47c5-b3f2-a6024f83421d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>image</value>
-      <webElementGuid>8bbb108a-4ef9-4c6f-a4ed-a0c446eddf62</webElementGuid>
+      <webElementGuid>2382ed9c-cf1f-4fef-8298-006323a3dfe1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>src</name>
       <type>Main</type>
       <value>//bddemo.apapmt.com/Images/edit_black.png</value>
-      <webElementGuid>3c70752c-1228-430a-9f9d-528373ee7131</webElementGuid>
+      <webElementGuid>bed1a0ad-b9f0-4fbc-a64a-adc44ccd9f98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>return editpackage('108935');</value>
-      <webElementGuid>706175e1-6efd-46ed-bc9b-0acc4991a9bb</webElementGuid>
+      <webElementGuid>4e232003-992e-4281-b28c-8812d6e47623</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;DataTableViewer&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[15]/div[1]/input[1]</value>
-      <webElementGuid>dd46b23b-65d4-4d10-8904-a572ecc6c031</webElementGuid>
+      <webElementGuid>a80a8d45-dcdc-4fcd-a47b-fc8ae54da8c1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@type='image'])[4]</value>
-      <webElementGuid>18469c38-f33e-4dae-a6df-40683ade844b</webElementGuid>
+      <webElementGuid>9c842dbf-ffc3-4249-9d94-5c9ffc9fe95c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='DataTableViewer']/tbody/tr/td[15]/div/input</value>
-      <webElementGuid>272ac689-e4c7-4c58-8630-e684b4a2083d</webElementGuid>
+      <webElementGuid>114ce5e5-74f6-40c0-a257-c15536c22ceb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[15]/div/input</value>
-      <webElementGuid>49820d51-4ac8-4565-9920-2cbe5433919f</webElementGuid>
+      <webElementGuid>32566135-016d-449a-9822-360b39b16036</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'image' and @src = '//bddemo.apapmt.com/Images/edit_black.png']</value>
-      <webElementGuid>153b91de-a323-4d37-9180-4a2470f772ed</webElementGuid>
+      <webElementGuid>2c950928-51d0-41af-b217-af8855179973</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

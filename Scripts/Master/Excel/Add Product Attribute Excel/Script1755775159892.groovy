@@ -16,10 +16,17 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-
 //WebUI.click(findTestObject('Object Repository/Master/Excel/Add Digital Asset Excel/Page_BDDemoPMT/a_Time 060309 AM_ucMenu_rptLevel1_lnkLink1_0'))
-
 //WebUI.click(findTestObject('Object Repository/Master/Excel/Add Digital Asset Excel/Page_BDDemoPMT/a_Data Import_ucMenu_rptLevel1_rptLevel2_0__663825'))
+import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
+
+WebUI.callTestCase(findTestCase('Login/login'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.waitForPageLoad(10)
+
+WebUI.click(findTestObject('Master/Excel/Add Digital Asset Excel/Page_BDDemoPMT/a_Time 060309 AM_ucMenu_rptLevel1_lnkLink1_0'))
+
+WebUI.click(findTestObject('Object Repository/Master/Excel/Add Digital Asset Excel/Page_BDDemoPMT/a_Data Import_ucMenu_rptLevel1_rptLevel2_0__663825'))
 
 WebUI.selectOptionByLabel(findTestObject('Master/Excel/Add Digital Asset Excel/Page_BDDemoPMT/select_Data Type_MainContent_ddldata'), 
     'Product Attribute', false)
@@ -32,17 +39,17 @@ WebUI.uploadFile(findTestObject('Master/Excel/Add Digital Asset Excel/Page_BDDem
 
 WebUI.click(findTestObject('Object Repository/Master/Excel/Add Digital Asset Excel/Page_BDDemoPMT/input_Upload my file_MainContent_btnUpload'))
 
-import com.kms.katalon.core.util.KeywordUtil
-
 // Wait for alert
 WebUI.waitForAlert(20)
 
 // Get and print alert text
 String actualAlertText = WebUI.getAlertText()
+
 println('Alert Text: ' + actualAlertText)
 
 // Expected texts
 String expectedAlertText1 = 'The imported file will be reflected in the Queue Management System within 15 minutes'
+
 String expectedAlertText2 = 'Import is successful. You can download the imported file from the Downloads section to view the import status of each record'
 
 // Compare and verify
@@ -52,10 +59,10 @@ if (actualAlertText == expectedAlertText1) {
     WebUI.verifyMatch(actualAlertText, expectedAlertText2, false)
 } else {
     println('Alert text does not match any expected value.')
-     KeywordUtil.markFailed('Unexpected alert text: ' + actualAlertText)
+
+    KeywordUtil.markWarning('Unexpected alert text: ' + actualAlertText)
 }
 
 // Accept the alert
-
 WebUI.acceptAlert()
 

@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//td[text()='Wolfs Head Motor Oil']/following-sibling::td//input[@type='image' and contains(@src, 'edit_black.png')]</value>
+         <value>(//*[@style='text-align:center;width:100px;']//input[@type='image'])[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>769fa468-9302-4af0-bbc1-4e862147cc2b</webElementGuid>
+      <webElementGuid>38c81878-aa23-47e2-9f44-aa31e5a24e0b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>image</value>
-      <webElementGuid>085f6f4b-b285-4ca2-b8d8-d7a96a410d33</webElementGuid>
+      <webElementGuid>db9343c4-90ef-4439-b5cb-5aecbf1bd36b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>src</name>
       <type>Main</type>
       <value>//bddemo.apapmt.com/Images/edit_black.png</value>
-      <webElementGuid>161bae8e-1385-4410-ba64-42463d637fc5</webElementGuid>
+      <webElementGuid>b53f77f1-842f-4c9b-a57b-c63282ba498b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>return EditBrand('352893','BBCW','AGS','FBHS','NiCopp');</value>
-      <webElementGuid>8b5461ed-c4f1-43fe-9901-8109e47e615a</webElementGuid>
+      <webElementGuid>b782c42a-0155-4f0e-a3f5-68a195720aab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;DataTableViewer&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[6]/div[1]/input[1]</value>
-      <webElementGuid>e6677307-affc-450d-8e2b-14a66bcbd86c</webElementGuid>
+      <webElementGuid>f3cbc257-40e2-4e4a-9a26-efe96dde6f7a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@type='image'])[3]</value>
-      <webElementGuid>73a35d51-f192-4c81-a19f-5fe709c0aedf</webElementGuid>
+      <webElementGuid>11c499ae-279f-4426-ad19-57f90ff522d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='DataTableViewer']/tbody/tr/td[6]/div/input</value>
-      <webElementGuid>1b646556-4828-4038-b34e-709d0507f605</webElementGuid>
+      <webElementGuid>ab79f6fa-ea2b-482a-b03c-1c2d3d192d28</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[6]/div/input</value>
-      <webElementGuid>e22eff43-862d-48b5-9200-e1b581fdd8b2</webElementGuid>
+      <webElementGuid>41abc51c-b98a-41af-9dac-4d7eb6e0e5a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'image' and @src = '//bddemo.apapmt.com/Images/edit_black.png']</value>
-      <webElementGuid>b55f55de-7c1a-49c4-b928-e3aab3ae33d9</webElementGuid>
+      <webElementGuid>bc31ff8a-b52c-4b38-910c-f7279e66ab3a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

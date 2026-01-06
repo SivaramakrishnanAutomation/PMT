@@ -17,6 +17,10 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.callTestCase(findTestCase('Login/login'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('part search box/Enter part number2'), [:], FailureHandling.STOP_ON_FAILURE)
+
 WebUI.waitForElementVisible(findTestObject('Object Repository/Parts segment/Kit Info/Add Kit Info/Page_BDDemoPMT/img'), 
     10)
 
@@ -39,7 +43,4 @@ WebUI.setText(findTestObject('Object Repository/Parts segment/Kit Info/Edit Kit 
 WebUI.click(findTestObject('Object Repository/Parts segment/Kit Info/Edit Kit Info/Page_BDDemoPMT/input__btnSaveKit'))
 
 WebUI.click(findTestObject('Object Repository/Parts segment/Kit Info/Edit Kit Info/Page_BDDemoPMT/button_Kit Info Updated Successfully_swal2-_fd75b2'))
-
-WebUI.setText(findTestObject('Object Repository/Parts segment/Kit Info/Edit Kit Info/Page_BDDemoPMT/input_Action_glowing-border'), 
-    'Testing Automation')
 

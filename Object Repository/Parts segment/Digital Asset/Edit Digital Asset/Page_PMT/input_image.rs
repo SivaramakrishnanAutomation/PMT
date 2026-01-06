@@ -6,12 +6,12 @@
    <elementGuidId>9805a203-4af4-4472-a8b3-9743a55d3a1a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//input[@type='image'])[4]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>td:nth-of-type(9) > div > input[type=&quot;image&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='image'])[5]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ca5207b9-3f73-42aa-887f-0682439d6e2b</webElementGuid>
+      <webElementGuid>f79bb12c-45ef-418c-9457-bdcd5ccf58c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>image</value>
-      <webElementGuid>138b4cf8-3965-4abb-8a7c-7e8e3c44f5a4</webElementGuid>
+      <webElementGuid>a5b5a9f1-09c5-4af3-99d8-d9bb075ec971</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://qpmt-all.apapmt.com/Images/edit_black.png</value>
-      <webElementGuid>b1752127-b7b0-49e1-93e4-16b0f04f9b8d</webElementGuid>
+      <webElementGuid>8bbad3fa-f081-4f1f-8d62-1996ad046bd6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>editAsset('7366', 'red.jpg');</value>
-      <webElementGuid>bed42c3f-f241-4296-97d4-10b7ae1a60b0</webElementGuid>
+      <webElementGuid>3a8c3ac5-57a4-4f6b-85d8-d98325f2da45</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;DataTableViewer&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[9]/div[1]/input[1]</value>
-      <webElementGuid>7d227ea5-edff-49fe-8c59-9d27e1823210</webElementGuid>
+      <webElementGuid>939010f6-134f-4e75-ab42-02240e4c5d5a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@type='image'])[4]</value>
-      <webElementGuid>902c1d4e-5edb-4325-b313-df4f7b3f7051</webElementGuid>
+      <webElementGuid>f336f334-79d3-44bd-8f16-d40d7e0a500e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='DataTableViewer']/tbody/tr/td[9]/div/input</value>
-      <webElementGuid>c4ca9d43-a0ee-4230-9054-2cb950af64ea</webElementGuid>
+      <webElementGuid>bd95673b-9e39-43e0-a43e-8b9ef32ea0f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[9]/div/input</value>
-      <webElementGuid>659da154-2894-412e-bb27-c131f8fd55c5</webElementGuid>
+      <webElementGuid>e5903838-679a-4dd6-848e-e0eb0b8ee45b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'image' and @src = 'https://qpmt-all.apapmt.com/Images/edit_black.png']</value>
-      <webElementGuid>8652e234-c8b7-464d-b964-4c1f7266fe74</webElementGuid>
+      <webElementGuid>6d7732e0-f5b6-4618-a36d-f77f9a8d90be</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

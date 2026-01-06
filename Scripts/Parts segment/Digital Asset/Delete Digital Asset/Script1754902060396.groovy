@@ -28,6 +28,8 @@ WebUI.waitForElementVisible(findTestObject('Object Repository/Parts segment/Digi
 WebUI.setText(findTestObject('Object Repository/Parts segment/Digital Asset/Delete Digital Asset/Page_PMT/input_Delete_glowing-border'), 
     'pink')
 
+WebUI.click(findTestObject('Parts segment/delete checkbox'))
+
 WebUI.click(findTestObject('Object Repository/Parts segment/Digital Asset/Delete Digital Asset/Page_PMT/input_image'))
 
 WebUI.click(findTestObject('Object Repository/Parts segment/Digital Asset/Delete Digital Asset/Page_PMT/button__swal2-confirm swal2-styled'))

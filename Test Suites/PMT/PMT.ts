@@ -10,7 +10,7 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>4ea64fd3-1e1c-4ee8-a6c0-36909378fb3f</testSuiteGuid>
+   <testSuiteGuid>24c3a4ec-a837-447c-abeb-6b4481cbca2f</testSuiteGuid>
    <testCaseLink>
       <guid>88c69cce-d31b-4ad4-bcc7-d97e241f3175</guid>
       <isReuseDriver>false</isReuseDriver>
@@ -180,150 +180,150 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>cb48f55e-9f02-4448-8c18-333e123b807c</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Parts segment/Brand/Without Sub Brand/Add Brand - Copy</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>77037c72-af9e-48a0-ba93-d89068c7a8ca</guid>
+      <guid>dac5220f-f624-4e8c-91bc-6794d4f21fc3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Parts segment/Custom Category/Add Custom Category</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>e2902990-fe28-446d-8438-4537b69ee2b4</guid>
+      <guid>d0053b65-835a-448b-bea5-9a6cbbdf6aef</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Parts segment/Custom Category/Edit Custom Category</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>0d401004-bba5-4004-ad74-adfa005742dc</guid>
+      <guid>f5ed648b-3159-4918-8ffc-2d1c46fdcace</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Parts segment/Digital Asset/Add Digital Asset</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>53cf0ccf-72b2-406e-86cf-99c0d535caf3</guid>
+      <guid>038d6848-bf53-4d15-b085-1d314fbfaca0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Parts segment/Digital Asset/Edit Digital Asset</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>bb38e705-6a77-4c5a-836e-e1d89a512654</guid>
+      <guid>3773ca02-6e11-4ea8-b664-d52006b55514</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Parts segment/Extended Info/Add Extended Info</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>c898b3b3-8b7b-4656-9aee-2f53e69735b5</guid>
+      <guid>5678b16c-0d67-406d-81ed-c84cddafbb01</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Parts segment/Hazardous Material/Select Hazardous Material</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>22f147a4-fefb-43a8-87e2-f48f54e3ef81</guid>
+      <guid>00979f40-d7fc-4c8a-b2f4-9c940fcc9e2b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Parts segment/Interchange/Add interchange</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>9b36776b-9685-4667-bb7a-308adf421578</guid>
+      <guid>9a9fbcf6-c5fc-4394-b281-75d3d721f74d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Parts segment/Interchange/Edit Interchange</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>4f6304c9-f095-41e8-ba07-57f93199c16a</guid>
+      <guid>64a7ebba-d801-42e9-9db4-4f86a7c80922</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Parts segment/Kit Info/Add Kit Info</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>fc611ddd-f0b8-4703-aba0-1bae5ed7954e</guid>
+      <guid>7c89f29b-6de3-48d6-9ad1-bc229986ef4f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Parts segment/Kit Info/Edit Kit Info</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>4fe54eb8-5aba-4384-b94c-a3a5a5ae23b7</guid>
+      <guid>ce46aaed-4c35-4096-ab61-5521260e6894</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Parts segment/Marketplace Title/Add Marketplace Title</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>c811ac15-5695-40e8-b7d8-62ea9cd58186</guid>
+      <guid>751fddd8-369c-4b9c-9e36-7ca4540406bf</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Parts segment/Marketplace Title/Edit Marketplace Title</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>6ffe10dd-1695-4eb4-88d4-f765905c467d</guid>
+      <guid>907bcbd9-1637-46d6-a282-8c40f832cbab</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Parts segment/Notes/Add Notes</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>d7e64eb3-61ce-4674-87a4-99f53e049652</guid>
+      <guid>335b2764-cb06-4fe1-bdd4-0d96b8894642</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Parts segment/Notes/Edit Notes</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>f298105e-300a-42ed-b3e8-701c72272ff4</guid>
+      <guid>c66c23d8-5965-416d-a2cd-7598e93a8bd9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Parts segment/package/Add Package</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>6d14de5d-6f1d-4316-bbc2-1fcbc9f80d2b</guid>
+      <guid>9f594912-787e-448b-a8cd-f90f92f50e75</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Parts segment/package/Edit Package</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>b1c93f1e-5f09-4dea-b47f-68665d534b54</guid>
+      <guid>6967cbfd-c9f3-4577-8d5e-893f93d6e958</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Parts segment/pies Description/Add Pies Description</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>729c9287-95ab-4e93-b1ad-ef6889c718f0</guid>
+      <guid>0e8d2a41-56d1-44ef-ac64-6555c0d239ba</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Parts segment/pies Description/Edit pies description</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>56b5c329-5c4d-4d89-8179-53e4a28e79de</guid>
+      <guid>d07caa37-e554-4f4d-b18b-8e1d7c63c35d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Parts segment/price/Add price</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>d1fc4f3e-2643-44fc-b607-04fc97c1ebeb</guid>
+      <guid>f208b4c9-de30-4765-ba63-faebc540df9d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Parts segment/price/Edit Price</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>cb48f55e-9f02-4448-8c18-333e123b807c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Parts segment/Brand/Without Sub Brand/Add Brand - Copy</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -770,7 +770,7 @@
    <testCaseLink>
       <guid>79ab3dbf-ce2b-4f94-8557-4b62eb4089d0</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Parts segment/Custom Category/Delete Custom Category</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>

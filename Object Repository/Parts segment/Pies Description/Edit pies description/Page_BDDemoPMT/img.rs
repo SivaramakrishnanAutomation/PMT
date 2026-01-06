@@ -6,12 +6,12 @@
    <elementGuidId>faae1a14-191d-47d3-a3ff-e6f2132ad02a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#Description > img</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='PiesNotes']/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Description > img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>bcdccc2b-5c99-4de8-a475-6babfe214650</webElementGuid>
+      <webElementGuid>24cabcf8-452f-4843-948c-cc2df8d48b51</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>//bddemo.apapmt.com/Images/New_design_img/part_description.png</value>
-      <webElementGuid>332cd092-f312-45f4-a140-0b3ae8f69bd6</webElementGuid>
+      <webElementGuid>5b76f796-494f-4c43-a677-c85d616e7eed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;Description&quot;)/img[1]</value>
-      <webElementGuid>2ebc09df-ec1d-42ec-a986-81f13ffe2107</webElementGuid>
+      <webElementGuid>06a5d5e2-4a54-417c-a8e6-aab96f7f1b33</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='Description']/img</value>
-      <webElementGuid>258b6946-2908-4a9d-8d88-d00bb37fe628</webElementGuid>
+      <webElementGuid>4e44e8c7-f566-43ec-a64f-9a8e4a0fe816</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[2]/img</value>
-      <webElementGuid>e68b20cf-6230-4771-8e3f-052cadabf85b</webElementGuid>
+      <webElementGuid>466b295f-60e2-4d62-8f93-eafb9853c75a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,6 +69,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = '//bddemo.apapmt.com/Images/New_design_img/part_description.png']</value>
-      <webElementGuid>84a742ad-64b2-4be1-a503-4dd8e30ce203</webElementGuid>
+      <webElementGuid>9b4a29a4-4486-4a65-8440-f4db839268ff</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

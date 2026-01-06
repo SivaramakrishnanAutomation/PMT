@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>57b03058-6343-4b9c-8ce3-281176a2653e</webElementGuid>
+      <webElementGuid>bb7495fd-26d9-44ce-8877-e3a612c7c4aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>glowing-border</value>
-      <webElementGuid>62fcb1cd-d2f0-4f51-8f88-5c27a7024f49</webElementGuid>
+      <webElementGuid>6b18e080-42bc-4713-9a72-72f808782d0a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>3ba1aeb9-d2ba-48ab-adef-3b9871f978fd</webElementGuid>
+      <webElementGuid>b70c6e65-a32a-44d5-8483-369d1ec3bb2b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Part No</value>
-      <webElementGuid>0019b5a4-b9c2-4d06-bc3a-f37dca8a005b</webElementGuid>
+      <webElementGuid>39fd88e8-771c-4cb8-81fc-f51a8c1cc2d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;DataTableViewer&quot;)/tfoot[1]/tr[1]/th[1]/input[@class=&quot;glowing-border&quot;]</value>
-      <webElementGuid>e662f6a2-2d02-4786-bd0f-4f63061e3a02</webElementGuid>
+      <webElementGuid>fbb006fd-a2f6-42f9-a729-60815f6aaffe</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@type='text'])[42]</value>
-      <webElementGuid>475db57f-e99b-41ae-ab73-9ce5504db086</webElementGuid>
+      <webElementGuid>721a7656-0844-4c92-8f02-95a140fae294</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='DataTableViewer']/tfoot/tr/th/input</value>
-      <webElementGuid>6299e079-0001-4cdd-8547-64da993902f5</webElementGuid>
+      <webElementGuid>ad5d40ce-6513-419a-b369-f21c866af85b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//th/input</value>
-      <webElementGuid>95b8a418-70c7-4c24-9c88-b7fcf52401ef</webElementGuid>
+      <webElementGuid>afa0536c-2660-443c-b71f-057aa6f15a62</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'Part No']</value>
-      <webElementGuid>cdbd2aba-a411-4aec-b698-56e5dfbc5d4b</webElementGuid>
+      <webElementGuid>f5945c3c-e6c0-438a-8b24-62bd66214369</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

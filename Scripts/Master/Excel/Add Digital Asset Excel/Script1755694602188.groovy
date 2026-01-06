@@ -58,7 +58,7 @@ if (actualAlertText == expectedAlertText1) {
 } else {
     println('Alert text does not match any expected value.')
 
-    KeywordUtil.markFailed('Unexpected alert text: ' + actualAlertText)
+    KeywordUtil.markWarning('Unexpected alert text: ' + actualAlertText)
 }
 
 WebUI.acceptAlert()

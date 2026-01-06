@@ -44,7 +44,7 @@ WebUI.selectOptionByIndex(findTestObject('Object Repository/Parts segment/Applic
 WebUI.delay(2)
 
 WebUI.selectOptionByIndex(findTestObject('Object Repository/Parts segment/Application/Without Enginee Select/Without Attribute/Add Application/Page_BDDemoPMT/select__MainContent_drpModel'), 
-    1, FailureHandling.STOP_ON_FAILURE)
+    '1', FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/Parts segment/Application/Without Enginee Select/Without Attribute/Add Application/Page_BDDemoPMT/input_IncludeNonAces_MainContent_searchbtn'))
 

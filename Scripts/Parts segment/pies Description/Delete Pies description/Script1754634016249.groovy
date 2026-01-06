@@ -17,14 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Login/login'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('part search box/Enter part number2'), [:], FailureHandling.STOP_ON_FAILURE)
-
 WebUI.waitForElementVisible(findTestObject('Parts segment/Pies Description/Delete pies Description/Page_BDDemoPMT/img'), 
     10)
 
 WebUI.click(findTestObject('Parts segment/Pies Description/Delete pies Description/Page_BDDemoPMT/img'))
+
+WebUI.setText(findTestObject('Object Repository/Parts segment/Pies Description/Edit pies description/Page_BDDemoPMT/input_No-Override_glowing-border'), 
+    'Testing the webpage in katalon')
+
+WebUI.click(findTestObject('Parts segment/delete checkbox'))
 
 WebUI.waitForElementVisible(findTestObject('Object Repository/Parts segment/Pies Description/Delete pies Description/Page_BDDemoPMT/input_image'), 
     10)

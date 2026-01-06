@@ -17,8 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Login/login'), [:], FailureHandling.STOP_ON_FAILURE)
-
 WebUI.click(findTestObject('Object Repository/Master/Product Line/add product line/Page_BDDemoPMT/a_Time 045247 AM_ucMenu_rptLevel1_lnkLink1_0'))
 
 WebUI.click(findTestObject('Object Repository/Master/Product Line/add product line/Page_BDDemoPMT/a_Brand Master_ucMenu_rptLevel1_rptLevel2_0_47c4f4'))

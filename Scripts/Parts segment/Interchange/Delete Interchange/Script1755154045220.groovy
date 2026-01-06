@@ -28,11 +28,13 @@ WebUI.waitForElementVisible(findTestObject('Object Repository/Parts segment/Inte
 WebUI.setText(findTestObject('Object Repository/Parts segment/Interchange/Delete Interchange/Page_BDDemoPMT/input_No-Override_glowing-border'), 
     'TestingAutomation')
 
+WebUI.click(findTestObject('Parts segment/delete checkbox'))
+
 WebUI.click(findTestObject('Object Repository/Parts segment/Interchange/Delete Interchange/Page_BDDemoPMT/input_image'))
 
 WebUI.click(findTestObject('Object Repository/Parts segment/Interchange/Delete Interchange/Page_BDDemoPMT/button__swal2-confirm swal2-styled'))
 
-WebUI.click(findTestObject('Object Repository/Parts segment/Interchange/Delete Interchange/Page_BDDemoPMT/button__swal2-confirm swal2-styled'))
+WebUI.delay(4)
 
-WebUI.waitForPageLoad(10)
+WebUI.click(findTestObject('Object Repository/Parts segment/Interchange/Delete Interchange/Page_BDDemoPMT/button__swal2-confirm swal2-styled'))
 

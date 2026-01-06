@@ -39,5 +39,5 @@ WebUI.click(findTestObject('Object Repository/Parts segment/package/Add Package/
 WebUI.click(findTestObject('Object Repository/Parts segment/package/Edit Package/Page_BDDemoPMT/button__swal2-confirm swal2-styled'))
 
 WebUI.setText(findTestObject('Object Repository/Parts segment/package/Edit Package/Page_BDDemoPMT/input_Action_glowing-border'), 
-    'test')
+    'TestingAutomation')
 

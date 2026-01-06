@@ -25,6 +25,8 @@ WebUI.click(findTestObject('Object Repository/Parts segment/Extended Info/Delete
 WebUI.waitForElementVisible(findTestObject('Object Repository/Parts segment/Extended Info/Delete Extended info/Page_BDDemoPMT/input_image'), 
     10)
 
+WebUI.click(findTestObject('Parts segment/delete checkbox'))
+
 WebUI.click(findTestObject('Object Repository/Parts segment/Extended Info/Delete Extended info/Page_BDDemoPMT/input_image'))
 
 WebUI.click(findTestObject('Object Repository/Parts segment/Extended Info/Delete Extended info/Page_BDDemoPMT/button__swal2-confirm swal2-styled'))

@@ -21,14 +21,17 @@ WebUI.callTestCase(findTestCase('Login/login'), [:], FailureHandling.STOP_ON_FAI
 
 WebUI.callTestCase(findTestCase('part search box/Enter part number2'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.waitForElementVisible(findTestObject('Object Repository/Parts segment/Notes/Delete Notes/Page_BDDemoPMT/img'), 10)
+WebUI.waitForElementVisible(findTestObject('Parts segment/Notes/Delete Notes/Page_BDDemoPMT/img'), 10)
 
-WebUI.click(findTestObject('Object Repository/Parts segment/Notes/Delete Notes/Page_BDDemoPMT/img'))
+WebUI.click(findTestObject('Parts segment/Notes/Delete Notes/Page_BDDemoPMT/img'))
 
-WebUI.waitForElementVisible(findTestObject('Object Repository/Parts segment/Notes/Delete Notes/Page_BDDemoPMT/input_image'), 
-    10)
+WebUI.switchToFrame(findTestObject('Parts segment/Notes/Delete Notes/iframe'), 3)
 
-WebUI.click(findTestObject('Object Repository/Parts segment/Notes/Delete Notes/Page_BDDemoPMT/input_image'))
+WebUI.click(findTestObject('Parts segment/delete checkbox'))
+
+WebUI.switchToDefaultContent()
+
+WebUI.click(findTestObject('Parts segment/Notes/Delete Notes/Page_BDDemoPMT/input_image'))
 
 WebUI.click(findTestObject('Object Repository/Parts segment/Notes/Delete Notes/Page_BDDemoPMT/button__swal2-confirm swal2-styled'))
 

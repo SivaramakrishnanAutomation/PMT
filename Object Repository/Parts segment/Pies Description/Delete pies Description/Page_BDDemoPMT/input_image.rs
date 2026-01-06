@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//input[@type='image'])[5]</value>
+         <value>(//input[@type='image'])[4]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>c1c3bde6-0904-4ac7-9529-0a09a719a884</webElementGuid>
+      <webElementGuid>514ee091-fabf-40f8-aeba-67cc06d23e8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +36,7 @@
       <name>type</name>
       <type>Main</type>
       <value>image</value>
-      <webElementGuid>fefa24c8-d343-4fdc-8596-d97d79983615</webElementGuid>
+      <webElementGuid>bdecbc00-07aa-49a7-ae00-ae83b51afa67</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +44,7 @@
       <name>src</name>
       <type>Main</type>
       <value>//bddemo.apapmt.com/Images/delete_black.png</value>
-      <webElementGuid>f672d453-5444-4810-b247-8bd447a9fe2b</webElementGuid>
+      <webElementGuid>84b761f7-52aa-4cd4-96d0-5b2881a7ce5e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +52,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>return DeleteDescription(507272);</value>
-      <webElementGuid>e9cf71d1-6cc4-4a26-ab59-146214433116</webElementGuid>
+      <webElementGuid>05fdf07a-1dca-4d8a-a747-79f0293c36d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +60,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;DataTableViewer&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[6]/div[1]/input[2]</value>
-      <webElementGuid>f653faaf-ba3d-4711-97f9-96cae85cfe76</webElementGuid>
+      <webElementGuid>3d311a3f-07c8-43a3-947d-b160caff6118</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +68,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@type='image'])[5]</value>
-      <webElementGuid>a2b8df75-0f1c-4ee2-8128-f33ad73fe098</webElementGuid>
+      <webElementGuid>265c267e-cd1f-4918-a502-9e2c096a5e0b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='DataTableViewer']/tbody/tr/td[6]/div/input[2]</value>
-      <webElementGuid>7054a513-1b45-4236-8e24-5da0a6214720</webElementGuid>
+      <webElementGuid>d5fdc807-6eb4-4024-a762-11498bc80110</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[6]/div/input[2]</value>
-      <webElementGuid>75d93147-daa7-4856-8933-0edd284d7de2</webElementGuid>
+      <webElementGuid>9db88ed7-9b80-4b7c-bd71-e759b233e87f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +92,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'image' and @src = '//bddemo.apapmt.com/Images/delete_black.png']</value>
-      <webElementGuid>31cea52b-5682-4d00-b67b-4e37da53c7b4</webElementGuid>
+      <webElementGuid>839e372e-e549-4aaf-ac0f-2ddbcdd470f7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

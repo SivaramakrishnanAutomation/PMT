@@ -21,7 +21,7 @@ WebUI.waitForPageLoad(10)
 
 WebUI.click(findTestObject('Object Repository/part Search box/Page_BDDemoPMT/a_Equipment_ucMenu_rptLevel1_lnkLink1_3'))
 
-WebUI.setText(findTestObject('part Search box/Page_BDDemoPMT/input_Search By_txtsearchpartno'), 'TestingAutomation | TestingAutomation | Auto  ')
+WebUI.setText(findTestObject('part Search box/Page_BDDemoPMT/input_Search By_txtsearchpartno'), 'TestingAutomation | TestingAutomation | Auto')
 
 WebUI.waitForPageLoad(10)
 

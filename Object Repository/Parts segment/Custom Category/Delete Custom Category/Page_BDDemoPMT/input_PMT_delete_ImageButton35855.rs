@@ -6,19 +6,19 @@
    <elementGuidId>0dd9cb4a-7115-4cfd-9e9a-b55c7aef0aed</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='delete_ImageButton35855']</value>
+         <key>BASIC</key>
+         <value>//*[@name = 'ctl00$MainContent$ImageButton2']</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>#delete_ImageButton35855</value>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@name = 'ctl00$MainContent$ImageButton2']</value>
+         <key>XPATH</key>
+         <value>//*[@id='blkdeletecat']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>dbff0a2c-c83e-4530-95cf-aa70eaccded9</webElementGuid>
+      <webElementGuid>6ceb9105-7dc5-417e-bad8-be8bcd20e053</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -41,7 +41,7 @@
       <name>type</name>
       <type>Main</type>
       <value>image</value>
-      <webElementGuid>30c19096-45d4-4680-a15a-5f19e46232e1</webElementGuid>
+      <webElementGuid>d6471ecf-c82e-4616-8fa5-d43d31709350</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +49,7 @@
       <name>name</name>
       <type>Main</type>
       <value>ctl00$MainContent$ImageButton2</value>
-      <webElementGuid>90db3958-c954-4f0b-a428-f0b816549cd9</webElementGuid>
+      <webElementGuid>223e35c8-322a-44c3-912b-5c32a5adfe41</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,7 +57,7 @@
       <name>class</name>
       <type>Main</type>
       <value>icon_edit_del</value>
-      <webElementGuid>d43f1265-4633-4315-b536-054c2cc7a926</webElementGuid>
+      <webElementGuid>5829bc33-b47a-4558-b25c-0d5c28863846</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>id</name>
       <type>Main</type>
       <value>delete_ImageButton35855</value>
-      <webElementGuid>5ee4e202-16c8-45d7-89ea-ee594223a91f</webElementGuid>
+      <webElementGuid>072ecb30-c256-41a8-aa60-0527d044e5bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>src</name>
       <type>Main</type>
       <value>../Images/New_design_img/delete_icon.png</value>
-      <webElementGuid>a6884ec3-414c-4218-96c7-7fff3089d8ae</webElementGuid>
+      <webElementGuid>9004b987-3c2a-4286-b005-798d7c28ec04</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>DeleteCatalog(35855);</value>
-      <webElementGuid>7129716f-32b5-4cf0-b842-4434eb2eb380</webElementGuid>
+      <webElementGuid>1cc13fa0-f5b0-4e76-bebf-1129aec1fae0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;delete_ImageButton35855&quot;)</value>
-      <webElementGuid>110b53ba-c84a-43f0-b1c0-10d9b5a5e752</webElementGuid>
+      <webElementGuid>57481138-bad0-4cbd-997c-c7a7f5791fe4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='delete_ImageButton35855']</value>
-      <webElementGuid>f5b85e86-02c3-4c18-90cd-0f90198df0b2</webElementGuid>
+      <webElementGuid>1838aa0a-9d88-42b3-981d-644f90e0094e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//tr[@id='sortorder_val35855']/td[14]/div/span[2]/input</value>
-      <webElementGuid>060514df-0dbc-424a-b794-95b483aef58f</webElementGuid>
+      <webElementGuid>6883dc97-b66d-48e2-80df-51b87febbe5a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,7 +113,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[14]/div/span[2]/input</value>
-      <webElementGuid>bba084e8-d83f-437b-bacc-f5a04e3fdb4e</webElementGuid>
+      <webElementGuid>7f1a2d9a-7aeb-4947-be3b-e5922abfb3c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -121,6 +121,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'image' and @name = 'ctl00$MainContent$ImageButton2' and @id = 'delete_ImageButton35855' and @src = '../Images/New_design_img/delete_icon.png']</value>
-      <webElementGuid>236f90f4-9e7d-4e56-8cf3-2d99d7fd40c1</webElementGuid>
+      <webElementGuid>175cd650-f856-4616-9458-4551d326a743</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

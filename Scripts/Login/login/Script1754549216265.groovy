@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://autopro.apapmt.com/')
+WebUI.navigateToUrl('https://ecat.apapmt.com/')
 
 WebUI.setText(findTestObject('Object Repository/login/login bddemo/Page_Login Page/input_It is a capital mistake to theorize b_6f37e7'), 
     'Qc')
