@@ -17,6 +17,10 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.callTestCase(findTestCase('Login/login'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('part search box/Enter part number2'), [:], FailureHandling.STOP_ON_FAILURE)
+
 WebUI.waitForElementVisible(findTestObject('Object Repository/Parts segment/Kit Info/Add Kit Info/Page_BDDemoPMT/img'), 
     10)
 
@@ -49,7 +53,7 @@ WebUI.selectOptionByIndex(findTestObject('Parts segment/Kit Info/Add Kit Info/Pa
 WebUI.setText(findTestObject('Object Repository/Parts segment/Kit Info/Add Kit Info/Page_BDDemoPMT/input__txtqtykit'), '1')
 
 WebUI.setText(findTestObject('Object Repository/Parts segment/Kit Info/Add Kit Info/Page_BDDemoPMT/input_Component Brand ID_drpCbrandID'), 
-    'Test-Rite', FailureHandling.OPTIONAL)
+    'DSDK', FailureHandling.OPTIONAL)
 
 WebUI.click(findTestObject('Object Repository/Parts segment/Kit Info/Add Kit Info/Page_BDDemoPMT/div_concat(id(, , ui-id-10, , ))_ui-id-10'), 
     FailureHandling.OPTIONAL)
@@ -71,6 +75,8 @@ WebUI.setText(findTestObject('Object Repository/Parts segment/Kit Info/Add Kit I
 
 WebUI.click(findTestObject('Object Repository/Parts segment/Kit Info/Add Kit Info/Page_BDDemoPMT/div_Test-Rite (DSDK)_ui-id-22'), 
     FailureHandling.OPTIONAL)
+
+WebUI.setText(findTestObject('Parts segment/Kit Info/Add Kit Info/Page_BDDemoPMT/Componentsku'), '1')
 
 WebUI.click(findTestObject('Object Repository/Parts segment/Kit Info/Add Kit Info/Page_BDDemoPMT/input__btnSaveKit'))
 

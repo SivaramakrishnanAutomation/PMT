@@ -11,7 +11,11 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='drpCbrandID']</value>
+         <value>//*[@placeholder = 'Enter your Component Brand ID']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@placeholder = 'Enter your Component Brand ID']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,23 +33,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>9fea3d9b-7779-47b8-9941-4bfee210bff7</webElementGuid>
+      <webElementGuid>053ffa32-afce-4487-a56a-bd7ab469fac8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>8eb4690e-a564-426a-9c54-7d0be0c7c525</webElementGuid>
+      <webElementGuid>0ab7874d-f02d-4b6e-bdaa-c43b8c8732fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
       <value>drpCbrandID</value>
-      <webElementGuid>7cc4fb08-547b-4e97-bfe1-ad35a3943d7c</webElementGuid>
+      <webElementGuid>4234eb47-6939-4397-9013-059c248aee80</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +57,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-autocomplete-input field_input</value>
-      <webElementGuid>0c2152f9-8485-41ac-b2b6-5225166f03e5</webElementGuid>
+      <webElementGuid>4761f7e6-6d0e-422d-9c47-898ca0d92d4f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +65,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Enter your Component Brand ID</value>
-      <webElementGuid>88d029e4-2f6a-4130-a8d2-98d3fc2dfb7a</webElementGuid>
+      <webElementGuid>d3dc8f97-42b2-42a6-9ec4-b345cac42d38</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +73,7 @@
       <name>onkeyup</name>
       <type>Main</type>
       <value>ComponentBrandID(this);</value>
-      <webElementGuid>84bcc6d3-a213-4bd3-b4fa-72467237a0d5</webElementGuid>
+      <webElementGuid>c2b3f8be-2260-49ae-a7de-8a7a4c49541e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +81,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>e9e19ded-d70e-410b-b7cf-9773af7fdfc5</webElementGuid>
+      <webElementGuid>1c6010d5-98ac-4232-bd23-bb461a234d8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +89,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;drpCbrandID&quot;)</value>
-      <webElementGuid>7c2bda14-6ced-4243-a8bf-ae9b35d22fc4</webElementGuid>
+      <webElementGuid>656673e2-24d0-4452-ace5-57d647c7dd72</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +97,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='drpCbrandID']</value>
-      <webElementGuid>1830b548-b053-4140-b2e8-da4011abaa2e</webElementGuid>
+      <webElementGuid>bf7d0129-ee10-4237-a89d-464e3bf3b48f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +105,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='piespages']/div[2]/div[2]/div[3]/div[8]/input</value>
-      <webElementGuid>76699efc-53b5-4696-ade3-214cfc488e87</webElementGuid>
+      <webElementGuid>90d9996f-da53-4379-b0cd-b30d87b00dbb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +113,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[8]/input</value>
-      <webElementGuid>c0b005b1-f11c-4bdb-89f4-325690131cf0</webElementGuid>
+      <webElementGuid>a1012023-f019-41ae-8b15-2ebe125fca95</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +121,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'drpCbrandID' and @placeholder = 'Enter your Component Brand ID']</value>
-      <webElementGuid>5194e24b-9aff-45ba-9809-45b9616ad4f2</webElementGuid>
+      <webElementGuid>b7ac1b20-c3f0-4160-bc45-d79eff590c94</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

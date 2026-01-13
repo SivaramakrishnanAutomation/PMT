@@ -6,19 +6,18 @@
    <elementGuidId>67b5f050-f905-4b5b-a4c8-c81ae1a76d90</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[(text() = 'Test-Rite (DSDK)' or . = 'Test-Rite (DSDK)')]</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[@id='ui-id-10']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#ui-id-10</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class='ui-menu-item-wrapper' and text()='Test-Rite (DSDK)']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
@@ -33,7 +32,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>2d285234-063c-4bf7-8f69-604152178eb5</webElementGuid>
+      <webElementGuid>e88b5c64-5687-46fc-85b3-f4a4efafcf8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -41,7 +40,7 @@
       <name>id</name>
       <type>Main</type>
       <value>ui-id-10</value>
-      <webElementGuid>d424250c-4986-456a-9cf3-2a686d8ac6ab</webElementGuid>
+      <webElementGuid>e520d1b8-6fe2-41f5-a9b7-13f703d625d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +48,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>9636f704-efee-4728-ab48-180addec4c1a</webElementGuid>
+      <webElementGuid>fdfc5fb2-4ee5-4d07-8d7d-18200c303026</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,15 +56,15 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-menu-item-wrapper ui-state-active</value>
-      <webElementGuid>c2944395-b0f5-42a8-8f90-2b3d8e7655bf</webElementGuid>
+      <webElementGuid>94428b1a-7825-449e-b13d-47662474c8ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
       <value>Test-Rite (DSDK)</value>
-      <webElementGuid>d419afb5-eea4-49db-8b3a-686db873fe74</webElementGuid>
+      <webElementGuid>c89ba4a3-a21d-4d04-862c-da6c6ceeab92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,7 +72,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ui-id-10&quot;)</value>
-      <webElementGuid>cb8b6798-94f2-4cf0-95c4-ec22755ae3a3</webElementGuid>
+      <webElementGuid>cc7a9365-d429-4460-8e19-c8e40e437795</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -81,7 +80,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='ui-id-10']</value>
-      <webElementGuid>085971ab-bc21-4ada-a273-e98a0bd8f458</webElementGuid>
+      <webElementGuid>06a7c90c-77ef-4fad-b9b2-9e77d33baf05</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +88,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='ui-id-1']/li/div</value>
-      <webElementGuid>6fee70ee-5c46-4e0c-b50a-cac28d23c72c</webElementGuid>
+      <webElementGuid>2e0e2838-5cd3-4831-a226-b35b4a6a8cc6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Please ensure no blank column(s) are left in between the columns with data'])[1]/following::div[3]</value>
-      <webElementGuid>e1d33b2e-c1cd-4d49-94a7-cd05be6bbce5</webElementGuid>
+      <webElementGuid>e62d72bc-6587-4989-9d64-d6300fa3afb0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +104,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Rite International (DJPL)'])[1]/preceding::div[2]</value>
-      <webElementGuid>48469297-642c-45c6-aad2-c7362c4b2a0f</webElementGuid>
+      <webElementGuid>fcb7bbe6-0e8c-4a99-9d2f-9c94ebcf1c6a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,7 +112,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Test-Rite (DSDK)'])[2]/preceding::div[3]</value>
-      <webElementGuid>0bb9800a-1fc3-487e-b177-3dc819b3a397</webElementGuid>
+      <webElementGuid>54e60e2c-5815-4892-a5c4-f0a9f9f29b0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -121,7 +120,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Test-Rite (DSDK)']/parent::*</value>
-      <webElementGuid>61ba5955-895a-4a62-b2fa-4c3e219dc96f</webElementGuid>
+      <webElementGuid>d006c496-0924-47b0-96bc-30cccb5e9247</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -129,7 +128,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//ul[5]/li/div</value>
-      <webElementGuid>02476eb5-d1cf-4fcb-83b6-d5ad65be4547</webElementGuid>
+      <webElementGuid>cad3c56f-60ef-47a0-99a6-1c779ac6a31b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -137,6 +136,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'ui-id-10' and (text() = 'Test-Rite (DSDK)' or . = 'Test-Rite (DSDK)')]</value>
-      <webElementGuid>73e2a7b6-dfd5-4ff4-8afc-57a907ca6991</webElementGuid>
+      <webElementGuid>0c41acf4-37c5-4263-bcf6-20b3b6cddd6a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
